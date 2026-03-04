@@ -1,0 +1,9 @@
+program,payout_model,tracking_tag,notes
+Jasper,recurring,jasper_ref,verify exact % on partner portal
+Copy.ai,recurring,copyai_ref,confirm cookie duration
+Writesonic,recurring,writesonic_ref,check tier exclusions
+Rytr,one-time,rytr_ref,verify payout terms
+Grammarly,one-time,grammarly_ref,region-specific offers possible
+Surfer,recurring,surfer_ref,confirm annual plan treatment
+Frase,recurring,frase_ref,confirm qualifying events
+ProWritingAid,one-time,pwa_ref,check monthly promos
