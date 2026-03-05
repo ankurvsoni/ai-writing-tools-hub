@@ -18,9 +18,21 @@ export default async function ContentPage({ params }) {
         <span className="pill">{page.primary_keyword}</span>
       </div>
 
+      <div className="notice">
+        Editorial note: We focus on real workflow fit and clear tradeoffs. This page may include affiliate links.
+      </div>
+
       <article className="container" dangerouslySetInnerHTML={{ __html: page.html }} />
 
-      <footer>AI Writing Tools Hub · Last updated: {page.last_updated}</footer>
+      <section className="cta">
+        <strong>Quick next step</strong>
+        <p>Open your top 2 options side-by-side, run the same prompt in both, and choose the one needing less rewrite.</p>
+        <a className="btn" href="#">Check latest pricing</a>
+      </section>
+
+      <footer>
+        Last reviewed: {page.last_updated} · <Link href="/disclosure">Affiliate disclosure</Link>
+      </footer>
     </main>
   );
 }

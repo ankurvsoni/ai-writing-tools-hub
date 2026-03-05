@@ -1,0 +1,1 @@
+export default function Disclosure(){return <main className="page"><article className="container"><h1>Affiliate Disclosure</h1><p>Some links on this site are affiliate links. If you purchase through them, we may earn a commission at no extra cost to you.</p><p>Commissions help fund testing, updates, and maintenance of this site.</p></article></main>}

@@ -2,11 +2,11 @@ import Link from 'next/link';
 import { getAllPages } from '@/lib/content';
 
 const groups = [
-  ['best', 'Best Of'],
-  ['comparison', 'Comparisons'],
-  ['alternatives', 'Alternatives'],
-  ['review', 'Reviews'],
-  ['guide', 'Guides'],
+  ['best', 'Best tools by use case'],
+  ['comparison', 'Head-to-head comparisons'],
+  ['alternatives', 'Best alternatives'],
+  ['review', 'Hands-on style reviews'],
+  ['guide', 'Guides and FAQs'],
 ];
 
 export default function HomePage() {
@@ -15,17 +15,21 @@ export default function HomePage() {
   return (
     <main className="wrap">
       <div className="top">
-        <div className="badge">30 publish-ready pages</div>
-        <div className="badge">Modern Next.js build</div>
+        <div className="badge">Updated regularly</div>
+        <div className="badge">No hype. Just buying clarity.</div>
       </div>
 
       <section className="hero">
-        <h1>AI Writing Tools Hub</h1>
+        <h1>Find the right AI writing tool in 10 minutes, not 10 hours.</h1>
         <p>
-          A modern affiliate-style content site with reviews, comparisons,
-          alternatives, and practical buying guides.
+          We publish practical comparisons and review-style guides for creators, freelancers,
+          and small teams. Every page includes tradeoffs, best-fit use cases, and clear next steps.
         </p>
       </section>
+
+      <div className="notice">
+        We may earn commissions from some links, but rankings are based on workflow fit, quality, and value.
+      </div>
 
       {groups.map(([intent, label]) => {
         const items = pages.filter((p) => p.intent === intent);
@@ -45,7 +49,9 @@ export default function HomePage() {
         );
       })}
 
-      <footer>Built from /content/pages markdown source files.</footer>
+      <footer>
+        Built by OrkoLabs · Read our <Link href="/how-we-test">testing method</Link> and <Link href="/editorial-policy">editorial policy</Link>.
+      </footer>
     </main>
   );
 }
