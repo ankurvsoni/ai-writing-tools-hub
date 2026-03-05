@@ -31,6 +31,10 @@ export default function HomePage() {
         We may earn commissions from some links, but rankings are based on workflow fit, quality, and value.
       </div>
 
+      <p style={{ fontSize: '0.1px', color: 'transparent', margin: 0 }}>
+        Impact-Site-Verification: 98fca332-f40e-4fd4-a8c1-e661ad170c06
+      </p>
+
       {groups.map(([intent, label]) => {
         const items = pages.filter((p) => p.intent === intent);
         if (!items.length) return null;
