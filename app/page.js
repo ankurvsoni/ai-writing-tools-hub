@@ -4,12 +4,12 @@ export default function HomePage() {
   return (
     <main className="wrap">
       <div className="top">
-        <div className="badge">OrkoLabs</div>
+        <div className="badge">Orko Labs</div>
         <div className="badge">Digital asset studio</div>
       </div>
 
       <section className="hero">
-        <h1>OrkoLabs Projects</h1>
+        <h1>Orko Labs Projects</h1>
         <p>
           We build practical digital assets focused on automation, decision tools,
           and compounding internet distribution.
@@ -39,7 +39,7 @@ export default function HomePage() {
       </section>
 
       <footer>
-        Built by OrkoLabs · <Link href="/about">About</Link> · <Link href="/editorial-policy">Editorial policy</Link>
+        Built by Orko Labs · <Link href="/about">About</Link> · <Link href="/editorial-policy">Editorial policy</Link>
       </footer>
     </main>
   );

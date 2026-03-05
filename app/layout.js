@@ -2,7 +2,7 @@ import './globals.css';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'OrkoLabs — AI Writing Tools Hub',
+  title: 'Orko Labs — AI Writing Tools Hub',
   description: 'Practical reviews, comparisons, and alternatives for AI writing tools.',
 };
 
@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <header className="siteHeader">
           <div className="wrap navRow">
-            <Link href="/" className="brand">OrkoLabs</Link>
+            <Link href="/" className="brand">Orko Labs</Link>
             <nav className="topNav">
               <Link href="/how-we-test">How we test</Link>
               <Link href="/editorial-policy">Editorial policy</Link>

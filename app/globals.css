@@ -1,23 +1,24 @@
-:root{--bg:#f7f9fc;--panel:#ffffff;--text:#0f172a;--muted:#475569;--brand:#2563eb;--border:#e2e8f0}
-*{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
-a{color:var(--brand);text-decoration:none}a:hover{text-decoration:underline}
-.wrap{max-width:1100px;margin:0 auto;padding:24px}
-.siteHeader{position:sticky;top:0;background:#ffffffd9;backdrop-filter:blur(6px);border-bottom:1px solid var(--border);z-index:20}
+:root{--bg:#f7f7f7;--panel:#ffffff;--text:#222222;--muted:#6a6a6a;--brand:#ff385c;--border:#ebebeb}
+*{box-sizing:border-box} body{margin:0;font-family:Circular,Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
+a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1120px;margin:0 auto;padding:24px}
+.siteHeader{position:sticky;top:0;background:#fffffff2;backdrop-filter:blur(8px);border-bottom:1px solid var(--border);z-index:20}
 .navRow{display:flex;justify-content:space-between;align-items:center;padding-top:14px;padding-bottom:14px}
-.brand{font-weight:700;color:#0f172a}.topNav{display:flex;gap:18px;font-size:14px}
+.brand{font-weight:700;color:#111}.topNav{display:flex;gap:18px;font-size:14px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
 .badge{font-size:12px;padding:6px 10px;border:1px solid var(--border);border-radius:999px;color:var(--muted);background:#fff}
-.hero{padding:34px 0 12px}.hero h1{font-size:42px;line-height:1.1;margin:0 0 12px}.hero p{max-width:760px;color:var(--muted);font-size:18px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin-top:14px}
-.card{background:var(--panel);border:1px solid var(--border);padding:16px;border-radius:14px}
-.card h3{margin:0 0 8px;font-size:17px;color:#0f172a}.card p{margin:0;color:var(--muted);font-size:14px}
-.section-title{margin-top:28px;font-size:20px}
+.hero{padding:38px 0 16px}.hero h1{font-size:46px;line-height:1.08;margin:0 0 12px;letter-spacing:-0.02em}.hero p{max-width:760px;color:var(--muted);font-size:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--border);padding:18px;border-radius:16px;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:transform .15s ease, box-shadow .15s ease}
+.card:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(0,0,0,.08)}
+.card h3{margin:0 0 8px;font-size:18px;color:#111}.card p{margin:0;color:var(--muted);font-size:14px}
+.section-title{margin:30px 0 14px;font-size:22px}
 .page{max-width:860px;margin:0 auto;padding:26px}.container{background:#fff;border:1px solid var(--border);border-radius:16px;padding:28px}
 h1{font-size:34px;margin:8px 0 16px}h2{font-size:22px;margin-top:28px}h3{font-size:18px;margin-top:20px}
-p,li{line-height:1.7;color:#1e293b} ul{padding-left:20px}
-blockquote{margin:0;padding:12px 14px;background:#eff6ff;border-left:4px solid var(--brand);border-radius:8px;color:#1e3a8a}
+p,li{line-height:1.7;color:#2d2d2d} ul{padding-left:20px}
+blockquote{margin:0;padding:12px 14px;background:#fff5f7;border-left:4px solid var(--brand);border-radius:8px;color:#7c1d2f}
 .nav{display:flex;gap:10px;align-items:center;margin-bottom:16px;flex-wrap:wrap}.pill{padding:8px 12px;border:1px solid var(--border);border-radius:999px;color:var(--muted);font-size:13px;background:#fff}
-.notice{padding:12px 14px;border-radius:10px;border:1px solid #bfdbfe;background:#eff6ff;margin-bottom:14px;color:#1e3a8a;font-size:14px}
-.cta{margin-top:20px;padding:18px;border:1px solid var(--border);border-radius:12px;background:#f8fafc}
-.btn{display:inline-block;background:#2563eb;color:#fff;padding:10px 14px;border-radius:10px;font-weight:600;margin-top:8px}
+.notice{padding:12px 14px;border-radius:10px;border:1px solid #ffd7df;background:#fff1f4;margin-bottom:14px;color:#8c2336;font-size:14px}
+.cta{margin-top:20px;padding:18px;border:1px solid var(--border);border-radius:12px;background:#fff}
+.btn{display:inline-block;background:var(--brand);color:#fff;padding:10px 14px;border-radius:10px;font-weight:600;margin-top:8px}
 footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
