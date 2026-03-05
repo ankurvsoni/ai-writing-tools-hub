@@ -1,7 +1,4 @@
 {
-  "cleanUrls": true,
-  "rewrites": [
-    { "source": "/", "destination": "/demo-site/index.html" },
-    { "source": "/pages/:slug", "destination": "/demo-site/pages/:slug.html" }
-  ]
+  "framework": "nextjs",
+  "outputDirectory": ".next"
 }
