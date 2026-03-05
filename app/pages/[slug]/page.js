@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getAllPages, getPageBySlug } from '@/lib/content';
+import { getAffiliateUrlForSlug } from '@/lib/affiliates';
 import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
@@ -9,6 +10,8 @@ export async function generateStaticParams() {
 export default async function ContentPage({ params }) {
   const page = getPageBySlug(params.slug);
   if (!page) return notFound();
+
+  const ctaUrl = getAffiliateUrlForSlug(page.slug);
 
   return (
     <main className="page">
@@ -27,7 +30,7 @@ export default async function ContentPage({ params }) {
       <section className="cta">
         <strong>Quick next step</strong>
         <p>Open your top 2 options side-by-side, run the same prompt in both, and choose the one needing less rewrite.</p>
-        <a className="btn" href="#">Check latest pricing</a>
+        <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check official pricing</a>
       </section>
 
       <footer>
