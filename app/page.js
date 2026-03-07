@@ -24,6 +24,11 @@ export default function HomePage() {
             <p>Interactive calculators for AI software cost, ROI, and break-even analysis.</p>
           </a>
 
+          <a className="card" href="https://recon.orkolabs.com" target="_blank" rel="noopener noreferrer">
+            <h3>Local-First Invoice Reconciliation</h3>
+            <p>Upload bank and invoice CSVs, auto-match records, review edge cases, and export clean outputs.</p>
+          </a>
+
           <a className="card" href="https://www.orkolabs.com/tools" target="_blank" rel="noopener noreferrer">
             <h3>AI Writing Tools Hub</h3>
             <p>Comparisons, alternatives, and review guides for AI writing workflows.</p>
