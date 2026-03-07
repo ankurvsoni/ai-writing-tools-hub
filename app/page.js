@@ -20,13 +20,13 @@ export default function HomePage() {
         <h2 className="section-title">Live Projects</h2>
         <div className="grid">
           <a className="card" href="https://roi.orkolabs.com" target="_blank" rel="noopener noreferrer">
-            <h3>AI Tool Cost & ROI Calculators</h3>
-            <p>Interactive calculators for AI software cost, ROI, and break-even analysis.</p>
+            <h3>AI Tool ROI Calculators</h3>
+            <p>Estimate software cost, monthly savings, payback period, and break-even outcomes.</p>
           </a>
 
           <a className="card" href="https://recon.orkolabs.com" target="_blank" rel="noopener noreferrer">
-            <h3>Local-First Invoice Reconciliation</h3>
-            <p>Upload bank and invoice CSVs, auto-match records, review edge cases, and export clean outputs.</p>
+            <h3>Invoice Reconciliation Utility</h3>
+            <p>Match bank and invoice CSV files locally, review uncertain records, and export clean results.</p>
           </a>
 
           <a className="card" href="https://www.orkolabs.com/tools" target="_blank" rel="noopener noreferrer">
