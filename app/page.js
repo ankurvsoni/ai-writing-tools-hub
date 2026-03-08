@@ -2,34 +2,34 @@ import Link from 'next/link';
 
 const featuredGuides = [
   {
+    slug: 'easter-basket-fillers-amazon',
+    title: 'Best Easter Basket Fillers on Amazon',
+    desc: 'Age-based picks that avoid novelty clutter and low-value bundles.',
+  },
+  {
+    slug: 'dry-shampoo-best-amazon',
+    title: 'Best Dry Shampoo on Amazon',
+    desc: 'Hair-type breakdown with residue and scent tradeoffs.',
+  },
+  {
+    slug: 'best-workout-sets-women-amazon',
+    title: 'Best Workout Sets for Women on Amazon',
+    desc: 'Comfort, fabric quality, and fit consistency over hype.',
+  },
+  {
+    slug: 'best-sandals-women-amazon',
+    title: 'Best Women\'s Sandals on Amazon',
+    desc: 'Walking comfort and support tradeoffs by use case.',
+  },
+  {
+    slug: 'best-vacuum-cleaners-home-amazon',
+    title: 'Best Vacuum Cleaners for Home on Amazon',
+    desc: 'Choose by floor type, pet hair load, and storage reality.',
+  },
+  {
     slug: 'best-standing-desk-solopreneurs',
     title: 'Best Standing Desk for Solopreneurs',
     desc: 'Stability, depth, and budget tradeoffs before you buy.',
-  },
-  {
-    slug: 'desk-setup-under-500-solopreneurs',
-    title: 'Desk Setup Under $500',
-    desc: 'A practical starter setup focused on comfort-per-dollar.',
-  },
-  {
-    slug: 'best-ergonomic-chair-under-500-solopreneurs',
-    title: 'Best Ergonomic Chair Under $500',
-    desc: 'Fit checks, durability signals, and skip conditions.',
-  },
-  {
-    slug: 'monitor-arm-vs-monitor-riser-solopreneurs',
-    title: 'Monitor Arm vs Monitor Riser',
-    desc: 'Which one actually fixes neck strain on small desks.',
-  },
-  {
-    slug: 'best-cable-management-kits-desk',
-    title: 'Best Cable Management Kits',
-    desc: 'Low-friction cable cleanup methods that hold up over time.',
-  },
-  {
-    slug: 'best-desk-accessories-actually-useful',
-    title: 'Desk Accessories That Are Actually Useful',
-    desc: 'No fluff: only accessories that remove daily friction.',
   },
 ];
 
