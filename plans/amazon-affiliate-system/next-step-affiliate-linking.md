@@ -1,9 +1,9 @@
 # Next Step — Affiliate Linking (US)
 
 Configured:
-- Tracking ID: `triedandtr0d5-20`
+- Tracking ID: `YOUR_AMAZON_TAG`
 - Marketplace: US
-- Link format: `https://www.amazon.com/dp/{ASIN}/?tag=triedandtr0d5-20`
+- Link format: `https://www.amazon.com/dp/{ASIN}/?tag=YOUR_AMAZON_TAG`
 
 ## Remaining execution work
 1. Resolve ASIN for each shortlisted product in `product-bank-v1-review-perspectives.md`

@@ -1,5 +1,5 @@
 {
   "marketplace": "US",
-  "trackingId": "triedandtr0d5-20",
-  "affiliateBase": "https://www.amazon.com/dp/{ASIN}/?tag=triedandtr0d5-20"
+  "trackingId": "YOUR_AMAZON_TAG",
+  "affiliateBase": "https://www.amazon.com/dp/{ASIN}/?tag=YOUR_AMAZON_TAG"
 }

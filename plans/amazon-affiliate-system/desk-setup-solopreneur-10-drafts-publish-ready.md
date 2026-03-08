@@ -115,10 +115,10 @@ Publish gate: **34/40+**
 ## 1) Best Standing Desk for Solopreneurs (Small Rooms, Real Budgets)
 
 ### Live product snapshot (US Amazon, at time of writing)
-- ErGear Electric Standing Desk 47x24 — $94.99 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20
-- ErGear Electric Standing Desk 48x24 — $129.99 • 4.4 out of 5 • (1,296) • https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20
-- ErGear Electric Standing Desk 55x28 — $169.98 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20
-- FLEXISPOT EN2 Standing Desk — $229.99 • 4.5 out of 5 • (4,691) • https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20
+- ErGear Electric Standing Desk 47x24 — $94.99 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41YH9B6/?tag=YOUR_AMAZON_TAG
+- ErGear Electric Standing Desk 48x24 — $129.99 • 4.4 out of 5 • (1,296) • https://www.amazon.com/dp/B0B4218ZG3/?tag=YOUR_AMAZON_TAG
+- ErGear Electric Standing Desk 55x28 — $169.98 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41Z34M7/?tag=YOUR_AMAZON_TAG
+- FLEXISPOT EN2 Standing Desk — $229.99 • 4.5 out of 5 • (4,691) • https://www.amazon.com/dp/B07W8W8XKV/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -161,9 +161,9 @@ Start with a stable 48x24 electric desk and one cable tray. Add extras later.
 ## 2) Monitor Arm vs Monitor Riser for Solopreneurs
 
 ### Live product snapshot (US Amazon, at time of writing)
-- VIVO STAND-V001 — $34.99 • 4.4 out of 5 • (19,988) • https://www.amazon.com/dp/B00B21TLQU/?tag=triedandtr0d5-20
-- HUANUO Single Arm 13-34 — $39.99 • 4.6 out of 5 • (7,075) • https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20
-- HUANUO Single Monitor Arm 13-49 — $64.99 • 4.6 out of 5 • (3,845) • https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20
+- VIVO STAND-V001 — $34.99 • 4.4 out of 5 • (19,988) • https://www.amazon.com/dp/B00B21TLQU/?tag=YOUR_AMAZON_TAG
+- HUANUO Single Arm 13-34 — $39.99 • 4.6 out of 5 • (7,075) • https://www.amazon.com/dp/B08FB7WFCT/?tag=YOUR_AMAZON_TAG
+- HUANUO Single Monitor Arm 13-49 — $64.99 • 4.6 out of 5 • (3,845) • https://www.amazon.com/dp/B07X48X4KM/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -205,10 +205,10 @@ For solopreneurs doing long screen hours, arm wins unless desk material blocks c
 ## 3) Desk Setup Under $500 for Solopreneurs
 
 ### Live product snapshot (US Amazon, at time of writing)
-- BestOffice Ergonomic Mid-Back Chair — $38.98 • 4.3 out of 5 • (62,481) • https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20
-- HUANUO Single Arm 13-34 — $39.99 • 4.6 out of 5 • (7,075) • https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20
-- Quntis Monitor Light Bar — $39.95 • 4.6 out of 5 • (15,426) • https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20
-- Aothia Leather Desk Pad 31.5x15.7 — $13.99 • 4.6 out of 5 • (75,666) • https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20
+- BestOffice Ergonomic Mid-Back Chair — $38.98 • 4.3 out of 5 • (62,481) • https://www.amazon.com/dp/B00FS3VJAO/?tag=YOUR_AMAZON_TAG
+- HUANUO Single Arm 13-34 — $39.99 • 4.6 out of 5 • (7,075) • https://www.amazon.com/dp/B08FB7WFCT/?tag=YOUR_AMAZON_TAG
+- Quntis Monitor Light Bar — $39.95 • 4.6 out of 5 • (15,426) • https://www.amazon.com/dp/B08DKQ3JG1/?tag=YOUR_AMAZON_TAG
+- Aothia Leather Desk Pad 31.5x15.7 — $13.99 • 4.6 out of 5 • (75,666) • https://www.amazon.com/dp/B082F5CMGG/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -250,9 +250,9 @@ Prioritize comfort stack: chair → monitor height → mouse.
 ## 4) Best Ergonomic Chair Under $500 for Solopreneurs
 
 ### Live product snapshot (US Amazon, at time of writing)
-- BestOffice Ergonomic Mid-Back Chair — $38.98 • 4.3 out of 5 • (62,481) • https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20
-- BestOffice Ergonomic Mesh Chair — $37.99 • 4.3 out of 5 • (51,695) • https://www.amazon.com/dp/B0147WIC7E/?tag=triedandtr0d5-20
-- Ergonomic Office Chair 2026 Listing — $99.99 • 5 out of 5 • (15) • https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20
+- BestOffice Ergonomic Mid-Back Chair — $38.98 • 4.3 out of 5 • (62,481) • https://www.amazon.com/dp/B00FS3VJAO/?tag=YOUR_AMAZON_TAG
+- BestOffice Ergonomic Mesh Chair — $37.99 • 4.3 out of 5 • (51,695) • https://www.amazon.com/dp/B0147WIC7E/?tag=YOUR_AMAZON_TAG
+- Ergonomic Office Chair 2026 Listing — $99.99 • 5 out of 5 • (15) • https://www.amazon.com/dp/B0G6D37MRS/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -294,9 +294,9 @@ Buy the chair that fits your body dimensions, not the most viral model.
 ## 5) Best Cable Management Kits That Actually Save Time
 
 ### Live product snapshot (US Amazon, at time of writing)
-- VIVO Cable Tray DESK-AC06-1C — $19.99 • 4.6 out of 5 • (1,068) • https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20
-- VIVO Cable Tray 2-Pack DESK-AC06-2C — $37.99 • 4.6 out of 5 • (856) • https://www.amazon.com/dp/B089B7QQVK/?tag=triedandtr0d5-20
-- VIVO Cable Tray Rack DESK-AC06-1B — $16.99 • 4.5 out of 5 • (191) • https://www.amazon.com/dp/B085R9HKFV/?tag=triedandtr0d5-20
+- VIVO Cable Tray DESK-AC06-1C — $19.99 • 4.6 out of 5 • (1,068) • https://www.amazon.com/dp/B089B4XZM4/?tag=YOUR_AMAZON_TAG
+- VIVO Cable Tray 2-Pack DESK-AC06-2C — $37.99 • 4.6 out of 5 • (856) • https://www.amazon.com/dp/B089B7QQVK/?tag=YOUR_AMAZON_TAG
+- VIVO Cable Tray Rack DESK-AC06-1B — $16.99 • 4.5 out of 5 • (191) • https://www.amazon.com/dp/B085R9HKFV/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -338,9 +338,9 @@ Start with one tray + reusable ties, then iterate.
 ## 6) Monitor Light Bar vs Desk Lamp (Eye Strain Edition)
 
 ### Live product snapshot (US Amazon, at time of writing)
-- Baseus Monitor Light Bar — $49.99 • 4.3 out of 5 • (3,931) • https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20
-- Quntis Monitor Light Bar — $39.95 • 4.6 out of 5 • (15,426) • https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20
-- Computer Monitor Light Bar Rotary — $22.99 • 4.4 out of 5 • (484) • https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20
+- Baseus Monitor Light Bar — $49.99 • 4.3 out of 5 • (3,931) • https://www.amazon.com/dp/B08CXL3YQ8/?tag=YOUR_AMAZON_TAG
+- Quntis Monitor Light Bar — $39.95 • 4.6 out of 5 • (15,426) • https://www.amazon.com/dp/B08DKQ3JG1/?tag=YOUR_AMAZON_TAG
+- Computer Monitor Light Bar Rotary — $22.99 • 4.4 out of 5 • (484) • https://www.amazon.com/dp/B096ZYZFDF/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -382,9 +382,9 @@ Pick by workflow: screen-only = light bar, mixed use = lamp.
 ## 7) Best Vertical Mice for Solopreneurs with Wrist Pain
 
 ### Live product snapshot (US Amazon, at time of writing)
-- Anker Vertical Wireless Mouse — $19.99 • 4.1 out of 5 • (52,898) • https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20
-- Anker Vertical Wired Mouse — $25.99 • 4.4 out of 5 • (8,941) • https://www.amazon.com/dp/B00FPAVUHC/?tag=triedandtr0d5-20
-- Logitech MX Master 3S — $109.99 • 4.4 out of 5 • (11,091) • https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20
+- Anker Vertical Wireless Mouse — $19.99 • 4.1 out of 5 • (52,898) • https://www.amazon.com/dp/B00BIFNTMC/?tag=YOUR_AMAZON_TAG
+- Anker Vertical Wired Mouse — $25.99 • 4.4 out of 5 • (8,941) • https://www.amazon.com/dp/B00FPAVUHC/?tag=YOUR_AMAZON_TAG
+- Logitech MX Master 3S — $109.99 • 4.4 out of 5 • (11,091) • https://www.amazon.com/dp/B09HM94VDS/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -426,10 +426,10 @@ Start with semi-vertical unless pain is severe and persistent.
 ## 8) Desk Setup Under $1000 for Solopreneurs
 
 ### Live product snapshot (US Amazon, at time of writing)
-- ErGear Electric Standing Desk 48x24 — $129.99 • 4.4 out of 5 • (1,296) • https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20
-- Ergonomic Office Chair 2026 Listing — $99.99 • 5 out of 5 • (15) • https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20
-- HUANUO Single Monitor Arm 13-49 — $64.99 • 4.6 out of 5 • (3,845) • https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20
-- VIVO Cable Tray DESK-AC06-1C — $19.99 • 4.6 out of 5 • (1,068) • https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20
+- ErGear Electric Standing Desk 48x24 — $129.99 • 4.4 out of 5 • (1,296) • https://www.amazon.com/dp/B0B4218ZG3/?tag=YOUR_AMAZON_TAG
+- Ergonomic Office Chair 2026 Listing — $99.99 • 5 out of 5 • (15) • https://www.amazon.com/dp/B0G6D37MRS/?tag=YOUR_AMAZON_TAG
+- HUANUO Single Monitor Arm 13-49 — $64.99 • 4.6 out of 5 • (3,845) • https://www.amazon.com/dp/B07X48X4KM/?tag=YOUR_AMAZON_TAG
+- VIVO Cable Tray DESK-AC06-1C — $19.99 • 4.6 out of 5 • (1,068) • https://www.amazon.com/dp/B089B4XZM4/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -471,10 +471,10 @@ Don’t over-index on one item. Balanced stacks age better.
 ## 9) Best Desk Accessories That Are Actually Useful
 
 ### Live product snapshot (US Amazon, at time of writing)
-- Nulaxy Adjustable Laptop Stand — $43.99 • 4.7 out of 5 • (8,266) • https://www.amazon.com/dp/B07YTHMM3B/?tag=triedandtr0d5-20
-- Aothia Leather Desk Pad 36x17 — $15.99 • 4.6 out of 5 • (75,666) • https://www.amazon.com/dp/B086BBQPQ2/?tag=triedandtr0d5-20
-- Quntis Monitor Light Bar — $39.95 • 4.6 out of 5 • (15,426) • https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20
-- VIVO Cable Tray DESK-AC06-1C — $19.99 • 4.6 out of 5 • (1,068) • https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20
+- Nulaxy Adjustable Laptop Stand — $43.99 • 4.7 out of 5 • (8,266) • https://www.amazon.com/dp/B07YTHMM3B/?tag=YOUR_AMAZON_TAG
+- Aothia Leather Desk Pad 36x17 — $15.99 • 4.6 out of 5 • (75,666) • https://www.amazon.com/dp/B086BBQPQ2/?tag=YOUR_AMAZON_TAG
+- Quntis Monitor Light Bar — $39.95 • 4.6 out of 5 • (15,426) • https://www.amazon.com/dp/B08DKQ3JG1/?tag=YOUR_AMAZON_TAG
+- VIVO Cable Tray DESK-AC06-1C — $19.99 • 4.6 out of 5 • (1,068) • https://www.amazon.com/dp/B089B4XZM4/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
@@ -516,9 +516,9 @@ Fix one bottleneck per week. Keep what survives real workdays.
 ## 10) Walking Pad + Standing Desk: Worth It for Solopreneurs?
 
 ### Live product snapshot (US Amazon, at time of writing)
-- ErGear Electric Standing Desk 47x24 — $94.99 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20
-- ErGear Electric Standing Desk 55x28 — $169.98 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20
-- ComfiLife Anti-Fatigue Mat 20x32 — $49.99 • 4.7 out of 5 • (41,449) • https://www.amazon.com/dp/B0797Q5HL7/?tag=triedandtr0d5-20
+- ErGear Electric Standing Desk 47x24 — $94.99 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41YH9B6/?tag=YOUR_AMAZON_TAG
+- ErGear Electric Standing Desk 55x28 — $169.98 • 4.5 out of 5 • (4,384) • https://www.amazon.com/dp/B0B41Z34M7/?tag=YOUR_AMAZON_TAG
+- ComfiLife Anti-Fatigue Mat 20x32 — $49.99 • 4.7 out of 5 • (41,449) • https://www.amazon.com/dp/B0797Q5HL7/?tag=YOUR_AMAZON_TAG
 
 
 ### Quick verdict
