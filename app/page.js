@@ -44,8 +44,8 @@ export default function HomePage() {
       <section className="hero">
         <h1>Product Reviews & Buying Guides</h1>
         <p>
-          Human-style affiliate content focused on real tradeoffs, budget tiers,
-          and practical recommendations for solopreneurs.
+          Practical affiliate content focused on real tradeoffs, budget tiers,
+          and clear recommendations for solopreneurs.
         </p>
       </section>
 
