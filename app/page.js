@@ -1,83 +1,35 @@
-import Link from 'next/link';
-
-const featuredGuides = [
-  {
-    slug: 'easter-basket-fillers-amazon',
-    title: 'Best Easter Basket Fillers on Amazon',
-    desc: 'Age-based picks that avoid novelty clutter and low-value bundles.',
-  },
-  {
-    slug: 'dry-shampoo-best-amazon',
-    title: 'Best Dry Shampoo on Amazon',
-    desc: 'Hair-type breakdown with residue and scent tradeoffs.',
-  },
-  {
-    slug: 'best-workout-sets-women-amazon',
-    title: 'Best Workout Sets for Women on Amazon',
-    desc: 'Comfort, fabric quality, and fit consistency over hype.',
-  },
-  {
-    slug: 'best-sandals-women-amazon',
-    title: 'Best Women\'s Sandals on Amazon',
-    desc: 'Walking comfort and support tradeoffs by use case.',
-  },
-  {
-    slug: 'best-vacuum-cleaners-home-amazon',
-    title: 'Best Vacuum Cleaners for Home on Amazon',
-    desc: 'Choose by floor type, pet hair load, and storage reality.',
-  },
-  {
-    slug: 'needoh-nice-cube-worth-it',
-    title: 'NeeDoh Nice Cube: Is It Worth It?',
-    desc: 'Trend review with quality and value tradeoffs.',
-  },
-  {
-    slug: 'best-dresses-for-women-amazon',
-    title: 'Best Dresses for Women on Amazon',
-    desc: 'Occasion-based picks with fit and fabric checks.',
-  },
-];
-
-export default function HomePage() {
+export default function Home() {
   return (
     <main className="wrap">
-      <div className="top">
-        <div className="badge">Affiliate Content Hub</div>
-        <div className="badge">reviews.orkolabs.com</div>
+      <h1>Orko Labs Projects</h1>
+      <p className="muted">Practical digital products, calculators, and revenue-focused web assets.</p>
+
+      <div className="grid">
+        <a className="card" href="https://roi.orkolabs.com" target="_blank" rel="noopener noreferrer">
+          <h3>AI Tool ROI Calculators</h3>
+          <p>Fast ROI and pricing calculators for common AI tool adoption decisions.</p>
+        </a>
+
+        <a className="card" href="https://recon.orkolabs.com" target="_blank" rel="noopener noreferrer">
+          <h3>Invoice Recon</h3>
+          <p>Invoice reconciliation workflow utility for cleaner monthly finance ops.</p>
+        </a>
+
+        <a className="card" href="https://www.orkolabs.com/tools" target="_blank" rel="noopener noreferrer">
+          <h3>AI Writing Tools Hub</h3>
+          <p>Comparison pages and practical guides for AI writing workflows.</p>
+        </a>
+
+        <a className="card" href="https://cricket.orkolabs.com" target="_blank" rel="noopener noreferrer">
+          <h3>ABCD Cricket</h3>
+          <p>2-player turn-based ABCD cricket game for quick local matches.</p>
+        </a>
+
+        <a className="card" href="https://reviews.orkolabs.com" target="_blank" rel="noopener noreferrer">
+          <h3>Affiliate Content Hub</h3>
+          <p>Buyer-focused product reviews with clear tradeoffs and budget tiers.</p>
+        </a>
       </div>
-
-      <section className="hero">
-        <h1>Product Reviews & Buying Guides</h1>
-        <p>
-          Practical affiliate content focused on real tradeoffs, budget tiers,
-          and clear recommendations for solopreneurs.
-        </p>
-      </section>
-
-      <section>
-        <h2 className="section-title">Featured Guides</h2>
-        <div className="grid">
-          {featuredGuides.map((g) => (
-            <Link key={g.slug} className="card" href={`/pages/${g.slug}`}>
-              <h3>{g.title}</h3>
-              <p>{g.desc}</p>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <h2 className="section-title">Editorial Promise</h2>
-        <div className="notice">
-          We include clear pros/cons, “who should skip this,” common mistakes,
-          and budget recommendations in every guide.
-        </div>
-      </section>
-
-      <footer>
-        Affiliate disclosure in every post · <Link href="/editorial-policy">Editorial policy</Link> ·{' '}
-        <Link href="/disclosure">Disclosure</Link>
-      </footer>
     </main>
   );
 }
