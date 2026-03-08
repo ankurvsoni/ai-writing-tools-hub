@@ -13,6 +13,28 @@ a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
   color:#a50f3c;
   text-decoration-thickness:2px;
 }
+
+/* Product links as obvious pill buttons */
+.container a[href*="amazon.com/dp/"]{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  background:#fff0f4;
+  border:1px solid #ffb6c8;
+  color:#b41448;
+  border-radius:999px;
+  padding:6px 10px;
+  text-decoration:none;
+  font-weight:700;
+  line-height:1.2;
+}
+.container a[href*="amazon.com/dp/"]::before{content:"🛒"}
+.container a[href*="amazon.com/dp/"]:hover{
+  background:#ffe3eb;
+  border-color:#ff8fac;
+  color:#8f0f37;
+  text-decoration:none;
+}
 .wrap{max-width:1120px;margin:0 auto;padding:24px}
 .siteHeader{position:sticky;top:0;background:#fffffff2;backdrop-filter:blur(8px);border-bottom:1px solid var(--border);z-index:20}
 .navRow{display:flex;justify-content:space-between;align-items:center;padding-top:14px;padding-bottom:14px}
