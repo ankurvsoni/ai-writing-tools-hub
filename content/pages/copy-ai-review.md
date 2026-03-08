@@ -36,7 +36,7 @@ affiliate_disclosure: true
 - Solid everyday writing utility
 
 ### Cons
-- Not perfect without prompt context
+- Not perfect without clear input context
 - Cost can rise with team usage
 
 ## Pricing

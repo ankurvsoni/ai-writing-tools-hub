@@ -20,7 +20,7 @@ affiliate_disclosure: true
 - If your main pain is polish/grammar: **Grammarly**
 
 ## How we tested
-We ran each tool on the same prompt pack: blog intro, product page rewrite, email sequence, social captions, and long-form expansion. We then scored output quality, edit effort, and speed-to-publish.
+We ran each tool on the same benchmark task pack: blog intro, product page rewrite, email sequence, social captions, and long-form expansion. We then scored output quality, edit effort, and speed-to-publish.
 
 ## Comparison snapshot
 | Tool | Best for | Strength | Main downside |

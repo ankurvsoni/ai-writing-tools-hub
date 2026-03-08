@@ -16,7 +16,7 @@ affiliate_disclosure: true
 ## 5-step framework
 1. Define your primary weekly output (blog, ads, email, social)
 2. Choose 2–3 candidate tools
-3. Run the same prompt test pack in each
+3. Run the same benchmark test pack in each
 4. Measure rewrite time + publish speed
 5. Pick based on ROI, then standardize process
 

@@ -37,7 +37,7 @@ Shortlist 2–3 tools based on your main workflow, then run a real task test bef
 - Easier repurposing
 
 ### Cons
-- Quality depends on prompt quality
+- Quality depends on input quality
 - Fact-checking is still mandatory
 - Feature sets change quickly
 

@@ -27,4 +27,4 @@ affiliate_disclosure: true
 - Writers prioritizing long-form draft quality: Claude
 
 ## CTA
-Try one long-form article prompt in both and compare edit depth needed to hit publish quality.
+Try one long-form article brief in both and compare edit depth needed to hit publish quality.
