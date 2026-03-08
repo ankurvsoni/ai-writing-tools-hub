@@ -495,7 +495,7 @@ Use walking blocks intentionally, not all day.
 
 ## Next production step
 Convert these drafts into CMS-ready pages with:
-- Amazon product blocks
+- Amazon product blocks (see `article-link-blocks-v1.md`)
 - internal links
 - FAQ schema
 - final brand pass for tone variance
