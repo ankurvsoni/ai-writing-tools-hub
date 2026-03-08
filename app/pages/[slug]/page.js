@@ -59,7 +59,7 @@ export default async function ContentPage({ params }) {
           <section className="cta">
             <strong>Quick next step</strong>
             <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
-            <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check current price on Amazon</a>
+            <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">🛒 Check current price on Amazon</a>
           </section>
         )}
       </article>
