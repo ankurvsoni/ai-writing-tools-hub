@@ -11,7 +11,8 @@ export default async function ContentPage({ params }) {
   const page = getPageBySlug(params.slug);
   if (!page) return notFound();
 
-  const ctaUrl = getAffiliateUrlForSlug(page.slug);
+  const productMatch = page.html.match(/href="(https:\/\/www\.amazon\.com\/dp\/[^"]+)"/i);
+  const ctaUrl = productMatch?.[1] || getAffiliateUrlForSlug(page.slug);
 
   return (
     <main className="page">
