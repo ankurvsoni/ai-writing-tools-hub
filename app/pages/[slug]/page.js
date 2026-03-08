@@ -23,7 +23,7 @@ export default async function ContentPage({ params }) {
       </div>
 
       <div className="notice">
-        Editorial note: We focus on real workflow fit and clear tradeoffs. This page may include affiliate links.
+        Editorial note: We focus on real workflow fit and clear tradeoffs. As an Amazon Associate I earn from qualifying purchases.
       </div>
 
       <article className="container" dangerouslySetInnerHTML={{ __html: page.html }} />
@@ -31,7 +31,7 @@ export default async function ContentPage({ params }) {
       <section className="cta">
         <strong>Quick next step</strong>
         <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
-        <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check official pricing</a>
+        <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check current price on Amazon</a>
       </section>
 
       <footer>

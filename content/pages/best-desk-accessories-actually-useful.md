@@ -24,10 +24,10 @@ Useful accessories remove friction you feel daily. If it looks cool but solves n
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **Nulaxy Adjustable Laptop Stand** — $43.99 · 4.7 out of 5 · (8,266) · [Check on Amazon](https://www.amazon.com/dp/B07YTHMM3B/?tag=triedandtr0d5-20)
-- **Aothia Leather Desk Pad 36x17** — $15.99 · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B086BBQPQ2/?tag=triedandtr0d5-20)
-- **Quntis Monitor Light Bar** — $39.95 · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-- **VIVO Cable Tray DESK-AC06-1C** — $19.99 · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
+- **Nulaxy Adjustable Laptop Stand** — Price on Amazon · 4.7 out of 5 · (8,266) · [Check on Amazon](https://www.amazon.com/dp/B07YTHMM3B/?tag=triedandtr0d5-20)
+- **Aothia Leather Desk Pad 36x17** — Price on Amazon · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B086BBQPQ2/?tag=triedandtr0d5-20)
+- **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
+- **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 Skip bundles and kits when your core ergonomics are broken. Accessories cannot compensate for bad posture geometry.

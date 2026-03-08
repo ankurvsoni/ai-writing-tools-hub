@@ -24,9 +24,9 @@ Small desk and neck strain? Start with a monitor arm. Deep desk and zero install
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **VIVO STAND-V001** — $34.99 · 4.4 out of 5 · (19,988) · [Check on Amazon](https://www.amazon.com/dp/B00B21TLQU/?tag=triedandtr0d5-20)
-- **HUANUO Single Arm 13-34** — $39.99 · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
-- **HUANUO Single Monitor Arm 13-49** — $64.99 · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
+- **VIVO STAND-V001** — Price on Amazon · 4.4 out of 5 · (19,988) · [Check on Amazon](https://www.amazon.com/dp/B00B21TLQU/?tag=triedandtr0d5-20)
+- **HUANUO Single Arm 13-34** — Price on Amazon · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
+- **HUANUO Single Monitor Arm 13-49** — Price on Amazon · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 Skip monitor arms if your desk edge is curved, fragile, or blocked by a back panel. You will hate the install and probably return it.

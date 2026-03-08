@@ -24,9 +24,9 @@ Vertical mice can reduce wrist strain, but day one often feels slower. Give it a
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **Anker Vertical Wireless Mouse** — $19.99 · 4.1 out of 5 · (52,898) · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
-- **Anker Vertical Wired Mouse** — $25.99 · 4.4 out of 5 · (8,941) · [Check on Amazon](https://www.amazon.com/dp/B00FPAVUHC/?tag=triedandtr0d5-20)
-- **Logitech MX Master 3S** — $109.99 · 4.4 out of 5 · (11,091) · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
+- **Anker Vertical Wireless Mouse** — Price on Amazon · 4.1 out of 5 · (52,898) · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
+- **Anker Vertical Wired Mouse** — Price on Amazon · 4.4 out of 5 · (8,941) · [Check on Amazon](https://www.amazon.com/dp/B00FPAVUHC/?tag=triedandtr0d5-20)
+- **Logitech MX Master 3S** — Price on Amazon · 4.4 out of 5 · (11,091) · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 Skip vertical mice if your main issue is shoulder pain from bad monitor placement. Solve posture first.
