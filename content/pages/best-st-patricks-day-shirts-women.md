@@ -25,17 +25,17 @@ Seasonal shirts are easy wins if print quality and fit are reliable. Buy from li
 
 ## Top picks (live snapshot)
 - **St. Patrick’s shirts women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)  
-  What it is: A seasonal graphic shirt option, primarily for short-term event wear where print quality and fit consistency vary by seller.
+  What it is: A product listing currently shown on Amazon: Women&#39;s St Patricks Day tee Glitter Shamrock Shirt Cute St Patty&#39;s Day t-Shirt St Patty&#39;s Day Outfit.
   Best for: seasonal buyers wanting one-event low-regret picks.
   Why pick: quick purchase category with high listing variance.
   Watchout: Great seasonal variety, but print durability varies.
 - **Funny St. Patrick’s tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)  
-  What it is: A seasonal graphic shirt option, primarily for short-term event wear where print quality and fit consistency vary by seller.
+  What it is: A product listing currently shown on Amazon: St Patricks Day Shirt Women: Funny Saint Patricks Day Shirts Cute Shamrock Tshirt Irish Graphic Tee Tops.
   Best for: seasonal buyers wanting one-event low-regret picks.
   Why pick: quick purchase category with high listing variance.
   Watchout: Novelty prints can crack after a few washes.
 - **Shamrock graphic tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)  
-  What it is: A seasonal graphic shirt option, primarily for short-term event wear where print quality and fit consistency vary by seller.
+  What it is: A product listing currently shown on Amazon: Women&#39;s St. Patrick&#39;s Day Shirt - St. Paddy&#39;s Day Front and Back Double-Sided Shamrock Graphic Tees 1 Piece.
   Best for: seasonal buyers wanting one-event low-regret picks.
   Why pick: quick purchase category with high listing variance.
   Watchout: Fit consistency differs across sellers.

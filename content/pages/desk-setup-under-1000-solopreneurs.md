@@ -25,22 +25,22 @@ At $1,000, you can build a setup that actually lasts: stable desk, real chair fi
 
 ## Top picks (live snapshot)
 - **ErGear Electric Standing Desk 48x24** — Price on Amazon · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
-  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
+  What it is: A product listing currently shown on Amazon: Ergear Height Adjustable Electric Standing Desk, 48x24 Inches Sit Stand up Memory Computer Home Office Desk (Natural),(EGESD5N).
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **Ergonomic Office Chair 2026 Listing** — Price on Amazon · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
-  What it is: An ergonomic office chair option intended for long desk sessions, where lumbar fit and seat depth drive real comfort.
+  What it is: A product listing currently shown on Amazon: Ergonomic Office Chair 2026 - Mesh Desk Chair with Flip-up Armrests, Adjustable Height and Lumbar, 360° Swivel Comfortable Computer Chairs for Home, Conference...
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **HUANUO Single Monitor Arm 13-49** — Price on Amazon · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
-  What it is: A monitor mounting arm for better screen height and desk space, with compatibility depending on VESA support and desk edge fit.
+  What it is: A product listing currently shown on Amazon: HUANUO Single Monitor Arm for 13-49 inch Screens, Ultrawide Computer Monitor Mount Holds 26.48 lbs, Upgraded Adjustable Stand with USB, C-Clamp &amp; Grommet Base,...
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
-  What it is: A cable-management accessory for under-desk routing, used to reduce clutter and make charging/power layouts easier to maintain.
+  What it is: A product listing currently shown on Amazon: VIVO Under Desk 17 inch Cable Management Tray, Power Strip Holder, Cord Organizer, Wire Tamer for Office and Home, Black, DESK-AC06-1C.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

@@ -25,17 +25,17 @@ For dresses, fit reliability matters more than photo styling. Filter by recent r
 
 ## Top picks (live snapshot)
 - **Casual dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GKFV3XSX/?tag=triedandtr0d5-20)  
-  What it is: A women’s dress option for casual, event, or vacation wear where fit, fabric feel, and return-friendliness matter most.
+  What it is: A product listing currently shown on Amazon: Kenvina Dresses for Women Square Neck Short Sleeve Tshirt Dress Beach Vacation A-Line Dresses with Pockets Casual Sundresses.
   Best for: occasion shoppers balancing fit, style, and returns.
   Why pick: large catalog with clear value differences.
   Watchout: Low prices can mean thinner fabric than photos suggest.
 - **Work dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DS8T7DDD/?tag=triedandtr0d5-20)  
-  What it is: A women’s dress option for casual, event, or vacation wear where fit, fabric feel, and return-friendliness matter most.
+  What it is: A product listing currently shown on Amazon: Color Contrast Collar Button Up Pleated Midi Dresses for Women Plaid Vintage Sleeveless Dress.
   Best for: occasion shoppers balancing fit, style, and returns.
   Why pick: large catalog with clear value differences.
   Watchout: Sizing and lining quality vary heavily by brand.
 - **Vacation dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GJCSVMNH/?tag=triedandtr0d5-20)  
-  What it is: A women’s dress option for casual, event, or vacation wear where fit, fabric feel, and return-friendliness matter most.
+  What it is: A product listing currently shown on Amazon: Summer Dresses for Women 2026 Casual Sleeveless Maxi Sundress Slit Hem Comfy Fitted Tunic Dress Fashion Clothes.
   Best for: occasion shoppers balancing fit, style, and returns.
   Why pick: large catalog with clear value differences.
   Watchout: Lightweight fabrics can wrinkle quickly in travel.

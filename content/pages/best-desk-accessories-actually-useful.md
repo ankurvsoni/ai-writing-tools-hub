@@ -25,22 +25,22 @@ Useful accessories remove friction you feel daily. If it looks cool but solves n
 
 ## Top picks (live snapshot)
 - **Nulaxy Adjustable Laptop Stand** — Price on Amazon · 4.7 out of 5 · (8,266) · [Check on Amazon](https://www.amazon.com/dp/B07YTHMM3B/?tag=triedandtr0d5-20)
-  What it is: A laptop elevation stand used to improve neck posture and screen height alignment in compact desk setups.
+  What it is: A product listing currently shown on Amazon: Nulaxy Height Adjustable Laptop Stand for Desk, Dual Foldable Aluminum Computer Riser, Pull Out Design Ergonomic Sit to Notebook Holder Convertor, Compatible with...
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **Aothia Leather Desk Pad 36x17** — Price on Amazon · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B086BBQPQ2/?tag=triedandtr0d5-20)
-  What it is: A product option in this category, selected for practical buyer fit and lower-regret decision-making.
+  What it is: A product listing currently shown on Amazon: Aothia Leather Desk Pad Protector, Mouse Pad,Office Desk Mat, Non-Slip PU Leather Desk Blotter, Laptop Desk Pad, Waterproof Desk Writing Pad for Office and Home...
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-  What it is: A desk lighting accessory for reducing eye strain and improving screen-area visibility during long work sessions.
+  What it is: A product listing currently shown on Amazon: Quntis Computer Monitor Lamp, Screen Monitor Light Bar for Eye Caring, USB Reading LED Task Lamp with Auto-Dimming, Dimmable Light Bar, Touch Control, No Glare...
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
-  What it is: A cable-management accessory for under-desk routing, used to reduce clutter and make charging/power layouts easier to maintain.
+  What it is: A product listing currently shown on Amazon: VIVO Under Desk 17 inch Cable Management Tray, Power Strip Holder, Cord Organizer, Wire Tamer for Office and Home, Black, DESK-AC06-1C.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

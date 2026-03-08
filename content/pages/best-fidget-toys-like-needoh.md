@@ -25,17 +25,17 @@ For fidget alternatives, durability and feel consistency beat novelty. Cheap set
 
 ## Top picks (live snapshot)
 - **NeeDoh alternatives** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DV4BD3H2/?tag=triedandtr0d5-20)  
-  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
+  What it is: A product listing currently shown on Amazon: Schylling NeeDoh Nice Cube Swirl - Sensory Toy with a Super Solid Squish - Unique, Swirling Color Blend - Ages 3 and Up - Color May Vary; One Cube Per Pack.
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Some alternatives feel firmer/softer than expected.
 - **Squishy stress balls** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D9ZTW7PS/?tag=triedandtr0d5-20)  
-  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
+  What it is: A product listing currently shown on Amazon: Schylling NeeDoh Nice Ice Baby - Sensory Squeeze Toy - Super Solid Squish - 1.25&#34; Wide - Color May Vary (Pack of 1). Stop, collaborate, and squish this.
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Cheaper foam can break down quickly with heavy use.
 - **Desk fidget toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSCS11R1/?tag=triedandtr0d5-20)  
-  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
+  What it is: A product listing currently shown on Amazon: Schylling NeeDoh Dream Drop - Sensory Squeeze Toy with Dreamy Smooth Squeeze - 3&#34; Tall - Color May Vary (Pack of 1).
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Not all are quiet enough for shared spaces.
