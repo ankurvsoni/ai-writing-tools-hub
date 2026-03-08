@@ -3,9 +3,9 @@ import Link from 'next/link';
 
 export const metadata = {
   metadataBase: new URL('https://www.orkolabs.com'),
-  title: 'Orko Labs — Digital Asset Studio',
+  title: 'Orko Labs — Reviews, ROI Calculators & Digital Tools',
   description:
-    'Orko Labs builds practical digital products and decision tools focused on automation and compounding internet distribution.',
+    'Practical product reviews, AI tool ROI calculators, and digital tools. Compare options with clear tradeoffs, budget tiers, and transparent recommendations.',
   alternates: {
     canonical: 'https://www.orkolabs.com/',
   },
