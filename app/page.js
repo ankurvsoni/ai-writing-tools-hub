@@ -27,9 +27,14 @@ const featuredGuides = [
     desc: 'Choose by floor type, pet hair load, and storage reality.',
   },
   {
-    slug: 'best-standing-desk-solopreneurs',
-    title: 'Best Standing Desk for Solopreneurs',
-    desc: 'Stability, depth, and budget tradeoffs before you buy.',
+    slug: 'needoh-nice-cube-worth-it',
+    title: 'NeeDoh Nice Cube: Is It Worth It?',
+    desc: 'Trend review with quality and value tradeoffs.',
+  },
+  {
+    slug: 'best-dresses-for-women-amazon',
+    title: 'Best Dresses for Women on Amazon',
+    desc: 'Occasion-based picks with fit and fabric checks.',
   },
 ];
 
