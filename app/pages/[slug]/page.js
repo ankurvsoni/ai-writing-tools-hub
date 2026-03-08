@@ -12,6 +12,7 @@ export default async function ContentPage({ params }) {
   const isPilotStyle = page?.slug === 'easter-basket-fillers-amazon';
 
   const sectionAnchor = (id, label) => <a href={`#${id}`}>{label}</a>;
+
   if (!page) return notFound();
 
   const anchoredHtml = page.html
@@ -20,32 +21,48 @@ export default async function ContentPage({ params }) {
     .replace('<h2>Who should skip this</h2>', '<h2 id="who-should-skip-this">Who should skip this</h2>')
     .replace('<h2>FAQ</h2>', '<h2 id="faq">FAQ</h2>');
 
-  const productMatch = page.html.match(/https:\/\/www\.amazon\.com\/dp\/[A-Z0-9]{10}\/\?tag=[^"'\s<)]+/i);
+  const productMatch = page.html.match(/https:\/\/www\.amazon\.com\/[^\"]*?tag=[^\"'\s<)]+/i);
+  const hasAmazonLinks = Boolean(productMatch);
   const ctaUrl = productMatch?.[0] || getAffiliateUrlForSlug(page.slug);
 
   return (
     <main className="page">
-      <div className="nav">
-        <Link href="/" className="pill">← Home</Link>
-        <span className="pill">{page.intent}</span>
-        <span className="pill">{page.primary_keyword}</span>
-      </div>
+      <article className={`article ${isPilotStyle ? 'pilotStyle' : ''}`}>
+        {isPilotStyle && (
+          <div className="decisionStrip">
+            <div><strong>Best for:</strong> Multi-basket Easter shopping with quick comparison.</div>
+            <div><strong>Primary risk:</strong> Quality variance across novelty filler packs.</div>
+            <div className="quickNav">
+              {sectionAnchor('top-picks', 'Top Picks')}
+              {sectionAnchor('comparison-table', 'Compare')}
+              {sectionAnchor('who-should-skip-this', 'Who Should Skip')}
+              {sectionAnchor('faq', 'FAQ')}
+            </div>
+          </div>
+        )}
 
-      <div className="notice">
-        Editorial note: We focus on real workflow fit and clear tradeoffs. As an Amazon Associate I earn from qualifying purchases.
-      </div>
+        <h1>{page.title}</h1>
 
-      <article className="container" dangerouslySetInnerHTML={{ __html: page.html }} />
+        {hasAmazonLinks && (
+          <div className="notice">
+            Editorial note: We focus on real workflow fit and clear tradeoffs. As an Amazon Associate I earn from qualifying purchases.
+          </div>
+        )}
 
-      <section className="cta">
-        <strong>Quick next step</strong>
-        <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
-        <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check current price on Amazon</a>
-      </section>
+        <div className="content" dangerouslySetInnerHTML={{ __html: anchoredHtml }} />
 
-      <footer>
-        Last reviewed: {page.last_updated} · <Link href="/disclosure">Affiliate disclosure</Link>
-      </footer>
+        {hasAmazonLinks && (
+          <div className="disclosure"><strong>Affiliate disclosure:</strong> Some links on this page may be affiliate links.</div>
+        )}
+
+        {hasAmazonLinks && (
+          <section className="cta">
+            <strong>Quick next step</strong>
+            <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
+            <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check current price on Amazon</a>
+          </section>
+        )}
+      </article>
     </main>
   );
 }
