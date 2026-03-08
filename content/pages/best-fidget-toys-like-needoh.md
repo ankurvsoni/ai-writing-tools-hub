@@ -25,17 +25,17 @@ For fidget alternatives, durability and feel consistency beat novelty. Cheap set
 
 ## Top picks (live snapshot)
 - **NeeDoh alternatives** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DV4BD3H2/?tag=triedandtr0d5-20)  
-  What it is: A sensory/fidget product option listed on Amazon (NeeDoh alternatives).
+  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Some alternatives feel firmer/softer than expected.
 - **Squishy stress balls** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D9ZTW7PS/?tag=triedandtr0d5-20)  
-  What it is: A sensory/fidget product option listed on Amazon (Squishy stress balls).
+  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Cheaper foam can break down quickly with heavy use.
 - **Desk fidget toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSCS11R1/?tag=triedandtr0d5-20)  
-  What it is: A home-office standing desk option listed on Amazon (Desk fidget toys).
+  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Not all are quiet enough for shared spaces.

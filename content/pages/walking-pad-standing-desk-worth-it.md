@@ -25,17 +25,17 @@ Walking pads help with low-focus admin work, not precision tasks. Use them as a 
 
 ## Top picks (live snapshot)
 - **ErGear Electric Standing Desk 47x24** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
-  What it is: A home-office standing desk option listed on Amazon (ErGear Electric Standing Desk 47x24).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **ErGear Electric Standing Desk 55x28** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
-  What it is: A home-office standing desk option listed on Amazon (ErGear Electric Standing Desk 55x28).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **ComfiLife Anti-Fatigue Mat 20x32** — Price on Amazon · 4.7 out of 5 · (41,449) · [Check on Amazon](https://www.amazon.com/dp/B0797Q5HL7/?tag=triedandtr0d5-20)
-  What it is: A product option listed on Amazon (ComfiLife Anti-Fatigue Mat 20x32).
+  What it is: A product option in this category, selected for practical buyer fit and lower-regret decision-making.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

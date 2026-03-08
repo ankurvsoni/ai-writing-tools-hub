@@ -25,17 +25,17 @@ Vacuum choice should start with floor type and pet hair load, not just peak suct
 
 ## Top picks (live snapshot)
 - **Vacuum cleaners for home** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09DJJQGCN/?tag=triedandtr0d5-20)  
-  What it is: A home vacuum cleaner option listed on Amazon (Vacuum cleaners for home).
+  What it is: A home vacuum cleaner option intended for regular floor cleaning, with differences in suction, weight, and pet-hair handling.
   Best for: homes with mixed floors and regular cleanup needs.
   Why pick: category depth makes comparison shopping worthwhile.
   Watchout: Strong suction can mean louder operation.
 - **Vacuum for pet hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D7LVQY7N/?tag=triedandtr0d5-20)  
-  What it is: A home vacuum cleaner option listed on Amazon (Vacuum for pet hair).
+  What it is: A home vacuum cleaner option intended for regular floor cleaning, with differences in suction, weight, and pet-hair handling.
   Best for: homes with mixed floors and regular cleanup needs.
   Why pick: category depth makes comparison shopping worthwhile.
   Watchout: Anti-tangle claims vary in real use.
 - **Lightweight vacuum cleaners** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DGX2C784/?tag=triedandtr0d5-20)  
-  What it is: A home vacuum cleaner option listed on Amazon (Lightweight vacuum cleaners).
+  What it is: A home vacuum cleaner option intended for regular floor cleaning, with differences in suction, weight, and pet-hair handling.
   Best for: homes with mixed floors and regular cleanup needs.
   Why pick: category depth makes comparison shopping worthwhile.
   Watchout: Lighter models may have smaller bins and battery limits.

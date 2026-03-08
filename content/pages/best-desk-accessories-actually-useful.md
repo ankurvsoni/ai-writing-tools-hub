@@ -25,22 +25,22 @@ Useful accessories remove friction you feel daily. If it looks cool but solves n
 
 ## Top picks (live snapshot)
 - **Nulaxy Adjustable Laptop Stand** — Price on Amazon · 4.7 out of 5 · (8,266) · [Check on Amazon](https://www.amazon.com/dp/B07YTHMM3B/?tag=triedandtr0d5-20)
-  What it is: A product option listed on Amazon (Nulaxy Adjustable Laptop Stand).
+  What it is: A laptop elevation stand used to improve neck posture and screen height alignment in compact desk setups.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **Aothia Leather Desk Pad 36x17** — Price on Amazon · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B086BBQPQ2/?tag=triedandtr0d5-20)
-  What it is: A home-office standing desk option listed on Amazon (Aothia Leather Desk Pad 36x17).
+  What it is: A product option in this category, selected for practical buyer fit and lower-regret decision-making.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-  What it is: A desk display/lighting accessory listed on Amazon (Quntis Monitor Light Bar).
+  What it is: A desk lighting accessory for reducing eye strain and improving screen-area visibility during long work sessions.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
-  What it is: A home-office standing desk option listed on Amazon (VIVO Cable Tray DESK-AC06-1C).
+  What it is: A cable-management accessory for under-desk routing, used to reduce clutter and make charging/power layouts easier to maintain.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

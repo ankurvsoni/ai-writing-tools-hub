@@ -25,22 +25,22 @@ At $1,000, you can build a setup that actually lasts: stable desk, real chair fi
 
 ## Top picks (live snapshot)
 - **ErGear Electric Standing Desk 48x24** — Price on Amazon · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
-  What it is: A home-office standing desk option listed on Amazon (ErGear Electric Standing Desk 48x24).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **Ergonomic Office Chair 2026 Listing** — Price on Amazon · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
-  What it is: An office chair option listed on Amazon (Ergonomic Office Chair 2026 Listing).
+  What it is: An ergonomic office chair option intended for long desk sessions, where lumbar fit and seat depth drive real comfort.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **HUANUO Single Monitor Arm 13-49** — Price on Amazon · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
-  What it is: A desk display/lighting accessory listed on Amazon (HUANUO Single Monitor Arm 13-49).
+  What it is: A monitor mounting arm for better screen height and desk space, with compatibility depending on VESA support and desk edge fit.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
 - **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
-  What it is: A home-office standing desk option listed on Amazon (VIVO Cable Tray DESK-AC06-1C).
+  What it is: A cable-management accessory for under-desk routing, used to reduce clutter and make charging/power layouts easier to maintain.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

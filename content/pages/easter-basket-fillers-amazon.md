@@ -25,17 +25,17 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 
 ## Top picks (live snapshot)
 - **Easter basket fillers (general)** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)  
-  What it is: A product option listed on Amazon (Easter basket fillers (general)).
+  What it is: An Easter gift/filler option selected for basket-building, where age-fit and repeat-use value matter more than novelty appeal.
   Best for: gift buyers who want low-regret fillers by age.
   Why pick: strong variety with quick comparison potential.
   Watchout: Fast variety, quality varies by listing freshness.
 - **NeeDoh-style fidget picks** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)  
-  What it is: A sensory/fidget product option listed on Amazon (NeeDoh-style fidget picks).
+  What it is: A sensory stress-relief toy with squeeze/fidget use, typically chosen for desk breaks, focus relief, or tactile comfort.
   Best for: gift buyers who want low-regret fillers by age.
   Why pick: strong variety with quick comparison potential.
   Watchout: Trending sensory items can sell out quickly.
 - **Easter candy assortments** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)  
-  What it is: A product option listed on Amazon (Easter candy assortments).
+  What it is: An Easter gift/filler option selected for basket-building, where age-fit and repeat-use value matter more than novelty appeal.
   Best for: gift buyers who want low-regret fillers by age.
   Why pick: strong variety with quick comparison potential.
   Watchout: Price-per-item can be worse than local store deals.

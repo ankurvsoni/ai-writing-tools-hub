@@ -25,17 +25,17 @@ Seasonal shirts are easy wins if print quality and fit are reliable. Buy from li
 
 ## Top picks (live snapshot)
 - **St. Patrick’s shirts women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)  
-  What it is: A seasonal women’s shirt option listed on Amazon (St. Patrick’s shirts women).
+  What it is: A seasonal graphic shirt option, primarily for short-term event wear where print quality and fit consistency vary by seller.
   Best for: seasonal buyers wanting one-event low-regret picks.
   Why pick: quick purchase category with high listing variance.
   Watchout: Great seasonal variety, but print durability varies.
 - **Funny St. Patrick’s tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)  
-  What it is: A seasonal women’s shirt option listed on Amazon (Funny St. Patrick’s tees).
+  What it is: A seasonal graphic shirt option, primarily for short-term event wear where print quality and fit consistency vary by seller.
   Best for: seasonal buyers wanting one-event low-regret picks.
   Why pick: quick purchase category with high listing variance.
   Watchout: Novelty prints can crack after a few washes.
 - **Shamrock graphic tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)  
-  What it is: A seasonal women’s shirt option listed on Amazon (Shamrock graphic tees).
+  What it is: A seasonal graphic shirt option, primarily for short-term event wear where print quality and fit consistency vary by seller.
   Best for: seasonal buyers wanting one-event low-regret picks.
   Why pick: quick purchase category with high listing variance.
   Watchout: Fit consistency differs across sellers.

@@ -25,25 +25,25 @@ Under $500, comfort has to win. Put money into chair fit and monitor height befo
 
 ## Top picks (live snapshot)
 - **BestOffice Ergonomic Mid-Back Chair** — Price on Amazon · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)  
-  What it is: An office chair option listed on Amazon (BestOffice Ergonomic Mid-Back Chair).
+  What it is: An ergonomic office chair option intended for long desk sessions, where lumbar fit and seat depth drive real comfort.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Cheap entry point. Tradeoff: long-session comfort can vary a lot by body type.
 - **HUANUO Single Arm 13-34** — Price on Amazon · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)  
-  What it is: A product option listed on Amazon (HUANUO Single Arm 13-34).
+  What it is: A monitor mounting arm for better screen height and desk space, with compatibility depending on VESA support and desk edge fit.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Big posture upgrade for not much money. Tradeoff: desk-edge compatibility can kill the install.
 - **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)  
-  What it is: A desk display/lighting accessory listed on Amazon (Quntis Monitor Light Bar).
+  What it is: A desk lighting accessory for reducing eye strain and improving screen-area visibility during long work sessions.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Great for screen-heavy days. Tradeoff: angle tuning matters or glare gets annoying fast.
 - **Aothia Leather Desk Pad 31.5x15.7** — Price on Amazon · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)  
-  What it is: A home-office standing desk option listed on Amazon (Aothia Leather Desk Pad 31.5x15.7).
+  What it is: A product option in this category, selected for practical buyer fit and lower-regret decision-making.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

@@ -25,25 +25,25 @@ If your desk wobbles every time you type, start with frame stability before you 
 
 ## Top picks (live snapshot)
 - **ErGear Electric Standing Desk 47x24** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)  
-  What it is: A home-office standing desk option listed on Amazon (ErGear Electric Standing Desk 47x24).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Best for tight budgets. Tradeoff: it’s good value, but typing bounce can show up faster with heavier monitor arms.
 - **ErGear Electric Standing Desk 48x24** — Price on Amazon · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)  
-  What it is: A home-office standing desk option listed on Amazon (ErGear Electric Standing Desk 48x24).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Best balance for most solo workstations. Tradeoff: still an entry-class frame, so don’t expect premium-level rigidity.
 - **ErGear Electric Standing Desk 55x28** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)  
-  What it is: A home-office standing desk option listed on Amazon (ErGear Electric Standing Desk 55x28).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Best if you need extra depth for dual-screen layouts. Tradeoff: bigger footprint can overwhelm small rooms.
 - **FLEXISPOT EN2 Standing Desk** — Price on Amazon · 4.5 out of 5 · (4,691) · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)  
-  What it is: A home-office standing desk option listed on Amazon (FLEXISPOT EN2 Standing Desk).
+  What it is: An electric sit-stand desk option for home office use, with key differences in stability, desk depth, and motor smoothness.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.

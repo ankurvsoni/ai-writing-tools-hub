@@ -25,19 +25,19 @@ Chair marketing is noisy. What actually matters under $500 is seat depth, lumbar
 
 ## Top picks (live snapshot)
 - **BestOffice Ergonomic Mid-Back Chair** — Price on Amazon · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)  
-  What it is: An office chair option listed on Amazon (BestOffice Ergonomic Mid-Back Chair).
+  What it is: An ergonomic office chair option intended for long desk sessions, where lumbar fit and seat depth drive real comfort.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Good for temporary or secondary desks. Tradeoff: expect faster wear if you sit 8+ hours daily.
 - **BestOffice Ergonomic Mesh Chair** — Price on Amazon · 4.3 out of 5 · (51,695) · [Check on Amazon](https://www.amazon.com/dp/B0147WIC7E/?tag=triedandtr0d5-20)  
-  What it is: An office chair option listed on Amazon (BestOffice Ergonomic Mesh Chair).
+  What it is: An ergonomic office chair option intended for long desk sessions, where lumbar fit and seat depth drive real comfort.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
   Better airflow in warm rooms. Tradeoff: mesh feel is not equally comfortable for everyone.
 - **Ergonomic Office Chair 2026 Listing** — Price on Amazon · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)  
-  What it is: An office chair option listed on Amazon (Ergonomic Office Chair 2026 Listing).
+  What it is: An ergonomic office chair option intended for long desk sessions, where lumbar fit and seat depth drive real comfort.
   Best for: home office buyers improving comfort per dollar.
   Why pick: clear tradeoff-based choices by budget.
   Watchout: quality and fit can vary by listing.
