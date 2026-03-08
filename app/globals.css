@@ -93,3 +93,17 @@ footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
   .topNav{gap:10px}
   .affiliateBar{font-size:12px}
 }
+
+
+/* UX v2 polish inspired by clean product hubs */
+.topPicks{gap:16px}
+.topPicks li{border-radius:16px;padding:14px 14px 16px;border:1px solid #ececec;box-shadow:0 2px 10px rgba(0,0,0,.03);transition:transform .12s ease, box-shadow .12s ease, border-color .12s ease}
+.topPicks li:hover{transform:translateY(-1px);box-shadow:0 8px 20px rgba(0,0,0,.06);border-color:#e3d8dd}
+.topPicks li strong{font-size:16px;line-height:1.35}
+.topPicks li .li-sub{display:block;margin-top:6px;padding-left:0;color:#4f4f4f;font-size:13px;line-height:1.45}
+.topPicks li .li-sub:nth-of-type(1){margin-top:8px}
+.topPicks li a[href*="amazon.com/dp/"]{display:inline-flex;margin-top:10px}
+
+/* cleaner section rhythm */
+.container h2{margin-top:26px}
+.container p{line-height:1.6}

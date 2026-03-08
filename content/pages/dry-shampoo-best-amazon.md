@@ -25,23 +25,25 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 ## Top picks (live snapshot)
 - **Dry shampoo for oily roots** — [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
-What it is: Batiste Original Dry Shampoo.
-Best for: oily-root refresh between washes on busy days.
-What stands out: quick refresh performance with minimal routine time.
-Before you buy: Strong oil control can leave more visible residue.
-Skip this if: you need zero-guesswork fit and no return friction.
+  What it is: Batiste Original Dry Shampoo.
+  Best for: oily-root refresh between washes on busy days.
+  What stands out: quick refresh performance with minimal routine time.
+  Before you buy: Strong oil control can leave more visible residue.
+  Skip this if: you need zero-guesswork fit and no return friction.
+
 - **Dry shampoo for dark hair** — [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
-What it is: Batiste Dry Shampoo for Dark Hair, 3.81 oz. A quick burst revitalizes hair and removes any.
-Best for: darker hair buyers comparing cast/finish behavior.
-What stands out: better fit for appearance-sensitive use on dark hair.
-Before you buy: Tinted formulas can transfer onto light fabrics.
-Skip this if: you need zero-guesswork fit and no return friction.
+  What it is: Batiste Dry Shampoo for Dark Hair, 3.81 oz. A quick burst revitalizes hair and removes any.
+  Best for: darker hair buyers comparing cast/finish behavior.
+  What stands out: better fit for appearance-sensitive use on dark hair.
+  Before you buy: Tinted formulas can transfer onto light fabrics.
+  Skip this if: you need zero-guesswork fit and no return friction.
+
 - **Unscented dry shampoo options** — [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
-What it is: Batiste Dry Shampoo.
-Best for: fragrance-sensitive routines needing simpler formulas.
-What stands out: lower scent intensity for daily close-contact settings.
-Before you buy: Unscented options may have weaker odor masking.
-Skip this if: you need zero-guesswork fit and no return friction.
+  What it is: Batiste Dry Shampoo.
+  Best for: fragrance-sensitive routines needing simpler formulas.
+  What stands out: lower scent intensity for daily close-contact settings.
+  Before you buy: Unscented options may have weaker odor masking.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
