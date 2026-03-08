@@ -25,20 +25,23 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 ## Top picks (live snapshot)
 - **Dry shampoo for oily roots** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Batiste Original Dry Shampoo, 6.76 OZ / 200ml , Powder, Oily Hair, Oil Control, Citrusy Scent. One 6.35 oz Batiste Original Fragrance Dry Shampoo Bottle.
+  Batiste Original Dry Shampoo, 6.76 OZ / 200ml , Powder, Oily Hair, Oil Control, Citrusy Scent. One 6.35 oz Batiste Original Fragrance Dry Shampoo Bottle.
   Best for: fast refresh between washes and oily roots.
-  Why pick: saves time when full wash is not practical.
-  Watchout: Strong oil control can leave more visible residue.
+  What stands out: saves time when full wash is not practical.
+  Before you buy: Strong oil control can leave more visible residue.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Dry shampoo for dark hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Batiste Dry Shampoo for Dark Hair, 3.81 oz. A quick burst revitalizes hair and removes any excess grease.
+  Batiste Dry Shampoo for Dark Hair, 3.81 oz. A quick burst revitalizes hair and removes any excess grease.
   Best for: fast refresh between washes and oily roots.
-  Why pick: saves time when full wash is not practical.
-  Watchout: Tinted formulas can transfer onto light fabrics.
+  What stands out: saves time when full wash is not practical.
+  Before you buy: Tinted formulas can transfer onto light fabrics.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Unscented dry shampoo options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair and Absorb Oil Between Washes, Waterless Shampoo for Added Hair Texture and Body, 5.71 oz.
+  Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair and Absorb Oil Between Washes, Waterless Shampoo for Added Hair Texture and Body, 5.71 oz.
   Best for: fast refresh between washes and oily roots.
-  Why pick: saves time when full wash is not practical.
-  Watchout: Unscented options may have weaker odor masking.
+  What stands out: saves time when full wash is not practical.
+  Before you buy: Unscented options may have weaker odor masking.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.

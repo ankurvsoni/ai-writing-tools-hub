@@ -25,20 +25,23 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
 
 ## Top picks (live snapshot)
 - **Walking sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sandals Water Hiking Shoes, All Black, 11 US.
+  ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sandals Water Hiking Shoes, All Black, 11 US.
   Best for: walking comfort and daily warm-weather wear.
-  Why pick: easy style + comfort options across budgets.
-  Watchout: Softer footbeds may wear down faster.
+  What stands out: easy style + comfort options across budgets.
+  Before you buy: Softer footbeds may wear down faster.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Dress sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: ForeMode Strappy Peep Toe Heeled Sandals for Women - Elegant and Comfortable Dress Shoes for Evening Party and Ballroom Dancing.
+  ForeMode Strappy Peep Toe Heeled Sandals for Women - Elegant and Comfortable Dress Shoes for Evening Party and Ballroom Dancing.
   Best for: walking comfort and daily warm-weather wear.
-  Why pick: easy style + comfort options across budgets.
-  Watchout: Style-first picks can compromise all-day comfort.
+  What stands out: easy style + comfort options across budgets.
+  Before you buy: Style-first picks can compromise all-day comfort.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Arch support sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Crocs Women&#39;s Tulum Toe Post Sandals, Fuchsia Fun/Tan, 8 Women.
+  Crocs Women&#39;s Tulum Toe Post Sandals, Fuchsia Fun/Tan, 8 Women.
   Best for: walking comfort and daily warm-weather wear.
-  Why pick: easy style + comfort options across budgets.
-  Watchout: Support claims vary a lot by foot shape.
+  What stands out: easy style + comfort options across budgets.
+  Before you buy: Support claims vary a lot by foot shape.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.

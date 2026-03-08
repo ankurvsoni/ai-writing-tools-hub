@@ -25,20 +25,23 @@ Screen-heavy workflow? Light bars usually feel cleaner. Paper notes and sketchin
 
 ## Top picks (live snapshot)
 - **Baseus Monitor Light Bar** — Price on Amazon · 4.3 out of 5 · (3,931) · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
-  What it is: A product listing currently shown on Amazon: Baseus Monitor Light Bar - Touch Control Desk Lamp with 3 Light Modes, Computer Monitor Light for Home Office, USB Powered LED Desk Lamp, Black.
+  Baseus Monitor Light Bar - Touch Control Desk Lamp with 3 Light Modes, Computer Monitor Light for Home Office, USB Powered LED Desk Lamp, Black.
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-  What it is: A product listing currently shown on Amazon: Quntis Computer Monitor Lamp, Screen Monitor Light Bar for Eye Caring, USB Reading LED Task Lamp with Auto-Dimming, Dimmable Light Bar, Touch Control, No Glare...
+  Quntis Computer Monitor Lamp, Screen Monitor Light Bar for Eye Caring, USB Reading LED Task Lamp with Auto-Dimming, Dimmable Light Bar, Touch Control, No Glare...
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Computer Monitor Light Bar Rotary** — Price on Amazon · 4.4 out of 5 · (484) · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
-  What it is: A product listing currently shown on Amazon: Computer Monitor Light Bar Screen Lamp: USB Powered LED Monitor Lamp with Stepless Dimming &amp; Hue Adjustment &amp; Memory Function &amp; No Screen Glare for...
+  Computer Monitor Light Bar Screen Lamp: USB Powered LED Monitor Lamp with Stepless Dimming &amp; Hue Adjustment &amp; Memory Function &amp; No Screen Glare for...
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip light bars when your monitor bezel or webcam setup makes mounting awkward. Friction kills consistency.

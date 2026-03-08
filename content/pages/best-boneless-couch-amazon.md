@@ -25,20 +25,23 @@ A boneless couch can be great for small-space lounging, but support retention an
 
 ## Top picks (live snapshot)
 - **Boneless couch options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy Cloud Sofa with Deep Seat &amp; Throw Pillows, Boneless Couches for Living Room,...
+  Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy Cloud Sofa with Deep Seat &amp; Throw Pillows, Boneless Couches for Living Room,...
   Best for: small-space loungers needing flexible seating.
-  Why pick: high comfort upside when size/shape fits your room.
-  Watchout: Comfort is strong; support can soften over time.
+  What stands out: high comfort upside when size/shape fits your room.
+  Before you buy: Comfort is strong; support can soften over time.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Modular floor couches** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: 107&#34; Modular Sectional Couches for Living Room, Comfy Boneless L Shaped Cloud Couch with Chaise Lounge, Modern Cozy Corduroy Deep Seat Floor Sofa, Memory Foam,...
+  107&#34; Modular Sectional Couches for Living Room, Comfy Boneless L Shaped Cloud Couch with Chaise Lounge, Modern Cozy Corduroy Deep Seat Floor Sofa, Memory Foam,...
   Best for: small-space loungers needing flexible seating.
-  Why pick: high comfort upside when size/shape fits your room.
-  Watchout: Great flexibility but can take more floor space than expected.
+  What stands out: high comfort upside when size/shape fits your room.
+  Before you buy: Great flexibility but can take more floor space than expected.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Washable floor loungers** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Sectional Cloud Boneless Sofa Couches for Living Room-113&#39;&#39; Gray 3 Seater U-Shaped Modern Lounge Couch-No Assembly Modular Corduroy Convertible Sponge...
+  Sectional Cloud Boneless Sofa Couches for Living Room-113&#39;&#39; Gray 3 Seater U-Shaped Modern Lounge Couch-No Assembly Modular Corduroy Convertible Sponge...
   Best for: small-space loungers needing flexible seating.
-  Why pick: high comfort upside when size/shape fits your room.
-  Watchout: Washability claims vary by cover construction.
+  What stands out: high comfort upside when size/shape fits your room.
+  Before you buy: Washability claims vary by cover construction.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip these picks if your return window is tight or you need guaranteed fit consistency with zero trial-and-error.

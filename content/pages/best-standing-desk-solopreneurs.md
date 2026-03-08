@@ -25,28 +25,32 @@ If your desk wobbles every time you type, start with frame stability before you 
 
 ## Top picks (live snapshot)
 - **ErGear Electric Standing Desk 47x24** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: ErGear Height Adjustable Electric Standing Desk, 47.2 x 23.6 Inches Sit Stand up Desk, Memory Computer Home Office Desk (Black).
+  ErGear Height Adjustable Electric Standing Desk, 47.2 x 23.6 Inches Sit Stand up Desk, Memory Computer Home Office Desk (Black).
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
   Best for tight budgets. Tradeoff: it’s good value, but typing bounce can show up faster with heavier monitor arms.
 - **ErGear Electric Standing Desk 48x24** — Price on Amazon · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Ergear Height Adjustable Electric Standing Desk, 48x24 Inches Sit Stand up Memory Computer Home Office Desk (Natural),(EGESD5N).
+  Ergear Height Adjustable Electric Standing Desk, 48x24 Inches Sit Stand up Memory Computer Home Office Desk (Natural),(EGESD5N).
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
   Best balance for most solo workstations. Tradeoff: still an entry-class frame, so don’t expect premium-level rigidity.
 - **ErGear Electric Standing Desk 55x28** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: ErGear Height Adjustable Electric Standing Desk, 55 x 28 Inches Sit Stand up Desk, Large Memory Computer Home Office Desk with Two-Piece Desktop (Black).
+  ErGear Height Adjustable Electric Standing Desk, 55 x 28 Inches Sit Stand up Desk, Large Memory Computer Home Office Desk with Two-Piece Desktop (Black).
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
   Best if you need extra depth for dual-screen layouts. Tradeoff: bigger footprint can overwhelm small rooms.
 - **FLEXISPOT EN2 Standing Desk** — Price on Amazon · 4.5 out of 5 · (4,691) · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: FLEXISPOT EN2 Whole-Piece Standing Desk with Clamp Power Strip, 48 x 30 Electric Stand Up Height Adjustable Desk with Cable Management (White Frame + 48&#34; White...
+  FLEXISPOT EN2 Whole-Piece Standing Desk with Clamp Power Strip, 48 x 30 Electric Stand Up Height Adjustable Desk with Cable Management (White Frame + 48&#34; White...
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
   Better long-term daily driver. Tradeoff: you’re paying more for consistency, not flashy extra features.
 
 ## Who should skip this

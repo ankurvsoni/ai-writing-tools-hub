@@ -25,20 +25,23 @@ Walking pads help with low-focus admin work, not precision tasks. Use them as a 
 
 ## Top picks (live snapshot)
 - **ErGear Electric Standing Desk 47x24** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
-  What it is: A product listing currently shown on Amazon: ErGear Height Adjustable Electric Standing Desk, 47.2 x 23.6 Inches Sit Stand up Desk, Memory Computer Home Office Desk (Black).
+  ErGear Height Adjustable Electric Standing Desk, 47.2 x 23.6 Inches Sit Stand up Desk, Memory Computer Home Office Desk (Black).
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **ErGear Electric Standing Desk 55x28** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
-  What it is: A product listing currently shown on Amazon: ErGear Height Adjustable Electric Standing Desk, 55 x 28 Inches Sit Stand up Desk, Large Memory Computer Home Office Desk with Two-Piece Desktop (Black).
+  ErGear Height Adjustable Electric Standing Desk, 55 x 28 Inches Sit Stand up Desk, Large Memory Computer Home Office Desk with Two-Piece Desktop (Black).
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **ComfiLife Anti-Fatigue Mat 20x32** — Price on Amazon · 4.7 out of 5 · (41,449) · [Check on Amazon](https://www.amazon.com/dp/B0797Q5HL7/?tag=triedandtr0d5-20)
-  What it is: A product listing currently shown on Amazon: ComfiLife Anti Fatigue Floor Mat – 3/4 Inch Thick Kitchen Mats for Floor, Standing Desk Mat, Kitchen Rug – Comfort at Home, Office – Durable – Stain Resistant –...
+  ComfiLife Anti Fatigue Floor Mat – 3/4 Inch Thick Kitchen Mats for Floor, Standing Desk Mat, Kitchen Rug – Comfort at Home, Office – Durable – Stain Resistant –...
   Best for: home office buyers improving comfort per dollar.
-  Why pick: clear tradeoff-based choices by budget.
-  Watchout: quality and fit can vary by listing.
+  What stands out: clear tradeoff-based choices by budget.
+  Before you buy: quality and fit can vary by listing.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip if noise or vibration will annoy neighbors, or if your desk area has poor cable safety near your feet.

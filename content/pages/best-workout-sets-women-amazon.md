@@ -25,20 +25,23 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 
 ## Top picks (live snapshot)
 - **Workout sets women matching** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Two Piece Workout Sets for Women, 2 Piece Matching Flared Leggings &amp; Sports Bra Set for Women&#39;s Gym Set Running Yoga Outfits.
+  Two Piece Workout Sets for Women, 2 Piece Matching Flared Leggings &amp; Sports Bra Set for Women&#39;s Gym Set Running Yoga Outfits.
   Best for: daily gym users prioritizing fit and fabric comfort.
-  Why pick: good value-to-comfort balance in active use.
-  Watchout: Looks good online, sizing consistency varies by seller.
+  What stands out: good value-to-comfort balance in active use.
+  Before you buy: Looks good online, sizing consistency varies by seller.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **High support sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: Women&#39;s Active Ombre Sports Bra and Leggings Performance Set.
+  Women&#39;s Active Ombre Sports Bra and Leggings Performance Set.
   Best for: daily gym users prioritizing fit and fabric comfort.
-  Why pick: good value-to-comfort balance in active use.
-  Watchout: Higher compression can feel restrictive in long sessions.
+  What stands out: good value-to-comfort balance in active use.
+  Before you buy: Higher compression can feel restrictive in long sessions.
+  Skip this if: you need zero-guesswork fit and no return friction.
 - **Budget gym sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)  
-  What it is: A product listing currently shown on Amazon: TDIFFUN Women Workout Sets 2 Piece Seamless Scrunch Butt Leggings Padded Halter Sports Bra Matching Set Gym Yoga Outfits.
+  TDIFFUN Women Workout Sets 2 Piece Seamless Scrunch Butt Leggings Padded Halter Sports Bra Matching Set Gym Yoga Outfits.
   Best for: daily gym users prioritizing fit and fabric comfort.
-  Why pick: good value-to-comfort balance in active use.
-  Watchout: Lower cost often means less durable stitching.
+  What stands out: good value-to-comfort balance in active use.
+  Before you buy: Lower cost often means less durable stitching.
+  Skip this if: you need zero-guesswork fit and no return friction.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
