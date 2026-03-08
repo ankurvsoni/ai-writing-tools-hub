@@ -25,19 +25,19 @@ A boneless couch can be great for small-space lounging, but support retention an
 
 ## Top picks (live snapshot)
 - **Boneless couch options** — [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)
-  Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy Cloud Sofa with Deep Seat &amp; Throw Pillows, Boneless Couches for Living Room,...
+  What it is: Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy Cloud Sofa.
   Best for: small-space loungers needing flexible seating.
   What stands out: high comfort upside when size/shape fits your room.
   Before you buy: Comfort is strong; support can soften over time.
   Skip this if: you need zero-guesswork fit and no return friction.
 - **Modular floor couches** — [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)
-  107&#34; Modular Sectional Couches for Living Room, Comfy Boneless L Shaped Cloud Couch with Chaise Lounge, Modern Cozy Corduroy Deep Seat Floor Sofa, Memory Foam,...
+  What it is: 107" Modular Sectional Couches for Living Room.
   Best for: small-space loungers needing flexible seating.
   What stands out: high comfort upside when size/shape fits your room.
   Before you buy: Great flexibility but can take more floor space than expected.
   Skip this if: you need zero-guesswork fit and no return friction.
 - **Washable floor loungers** — [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)
-  Sectional Cloud Boneless Sofa Couches for Living Room-113&#39;&#39; Gray 3 Seater U-Shaped Modern Lounge Couch-No Assembly Modular Corduroy Convertible Sponge...
+  What it is: Sectional Cloud Boneless Sofa Couches for Living Room-113&#39;&#39; Gray 3 Seater U-Shaped.
   Best for: small-space loungers needing flexible seating.
   What stands out: high comfort upside when size/shape fits your room.
   Before you buy: Washability claims vary by cover construction.

@@ -25,19 +25,19 @@ For fidget alternatives, durability and feel consistency beat novelty. Cheap set
 
 ## Top picks (live snapshot)
 - **NeeDoh alternatives** — [Check on Amazon](https://www.amazon.com/dp/B0DV4BD3H2/?tag=triedandtr0d5-20)
-  Schylling NeeDoh Nice Cube Swirl - Sensory Toy with a Super Solid Squish - Unique, Swirling Color Blend - Ages 3 and Up - Color May Vary; One Cube Per Pack.
+  What it is: Schylling NeeDoh Nice Cube Swirl.
   Best for: sensory toy buyers comparing texture and durability.
   What stands out: popular trend item with clear alternatives.
   Before you buy: Some alternatives feel firmer/softer than expected.
   Skip this if: you need zero-guesswork fit and no return friction.
 - **Squishy stress balls** — [Check on Amazon](https://www.amazon.com/dp/B0D9ZTW7PS/?tag=triedandtr0d5-20)
-  Schylling NeeDoh Nice Ice Baby - Sensory Squeeze Toy - Super Solid Squish - 1.25&#34; Wide - Color May Vary (Pack of 1). Stop, collaborate, and squish this.
+  What it is: Schylling NeeDoh Nice Ice Baby.
   Best for: sensory toy buyers comparing texture and durability.
   What stands out: popular trend item with clear alternatives.
   Before you buy: Cheaper foam can break down quickly with heavy use.
   Skip this if: you need zero-guesswork fit and no return friction.
 - **Desk fidget toys** — [Check on Amazon](https://www.amazon.com/dp/B0DSCS11R1/?tag=triedandtr0d5-20)
-  Schylling NeeDoh Dream Drop - Sensory Squeeze Toy with Dreamy Smooth Squeeze - 3&#34; Tall - Color May Vary (Pack of 1).
+  What it is: Schylling NeeDoh Dream Drop.
   Best for: sensory toy buyers comparing texture and durability.
   What stands out: popular trend item with clear alternatives.
   Before you buy: Not all are quiet enough for shared spaces.
