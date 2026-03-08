@@ -24,9 +24,9 @@ This guide prioritizes comfort-per-dollar and real desk constraints. If your cur
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **VIVO STAND-V001** — $34.99 · 4.4 out of 5 · (19,988) · [Check on Amazon](https://www.amazon.com/dp/B00B21TLQU/?tag=triedandtr0d5-20)
-- **HUANUO Single Arm 13-34** — $39.99 · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
-- **HUANUO Single Monitor Arm 13-49** — $64.99 · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
+- **VIVO STAND-V001** — Price on Amazon · 4.4 out of 5 · (19,988) · [Check on Amazon](https://www.amazon.com/dp/B00B21TLQU/?tag=triedandtr0d5-20)
+- **HUANUO Single Arm 13-34** — Price on Amazon · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
+- **HUANUO Single Monitor Arm 13-49** — Price on Amazon · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 If your room layout is temporary or you're moving soon, skip heavy purchases and choose portable upgrades first.

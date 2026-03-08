@@ -24,10 +24,10 @@ This guide prioritizes comfort-per-dollar and real desk constraints. If your cur
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **ErGear Electric Standing Desk 48x24** — $129.99 · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
-- **Ergonomic Office Chair 2026 Listing** — $99.99 · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
-- **HUANUO Single Monitor Arm 13-49** — $64.99 · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
-- **VIVO Cable Tray DESK-AC06-1C** — $19.99 · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 48x24** — Price on Amazon · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
+- **Ergonomic Office Chair 2026 Listing** — Price on Amazon · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
+- **HUANUO Single Monitor Arm 13-49** — Price on Amazon · 4.6 out of 5 · (3,845) · [Check on Amazon](https://www.amazon.com/dp/B07X48X4KM/?tag=triedandtr0d5-20)
+- **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 If your room layout is temporary or you're moving soon, skip heavy purchases and choose portable upgrades first.

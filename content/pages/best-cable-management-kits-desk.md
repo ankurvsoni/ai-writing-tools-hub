@@ -24,9 +24,9 @@ This guide prioritizes comfort-per-dollar and real desk constraints. If your cur
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **VIVO Cable Tray DESK-AC06-1C** — $19.99 · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
-- **VIVO Cable Tray 2-Pack DESK-AC06-2C** — $37.99 · 4.6 out of 5 · (856) · [Check on Amazon](https://www.amazon.com/dp/B089B7QQVK/?tag=triedandtr0d5-20)
-- **VIVO Cable Tray Rack DESK-AC06-1B** — $16.99 · 4.5 out of 5 · (191) · [Check on Amazon](https://www.amazon.com/dp/B085R9HKFV/?tag=triedandtr0d5-20)
+- **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
+- **VIVO Cable Tray 2-Pack DESK-AC06-2C** — Price on Amazon · 4.6 out of 5 · (856) · [Check on Amazon](https://www.amazon.com/dp/B089B7QQVK/?tag=triedandtr0d5-20)
+- **VIVO Cable Tray Rack DESK-AC06-1B** — Price on Amazon · 4.5 out of 5 · (191) · [Check on Amazon](https://www.amazon.com/dp/B085R9HKFV/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 If your room layout is temporary or you're moving soon, skip heavy purchases and choose portable upgrades first.

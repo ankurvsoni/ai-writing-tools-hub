@@ -24,10 +24,10 @@ This guide prioritizes comfort-per-dollar and real desk constraints. If your cur
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **ErGear Electric Standing Desk 47x24** — $94.99 · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
-- **ErGear Electric Standing Desk 48x24** — $129.99 · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
-- **ErGear Electric Standing Desk 55x28** — $169.98 · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
-- **FLEXISPOT EN2 Standing Desk** — $229.99 · 4.5 out of 5 · (4,691) · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 47x24** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 48x24** — Price on Amazon · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 55x28** — Price on Amazon · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
+- **FLEXISPOT EN2 Standing Desk** — Price on Amazon · 4.5 out of 5 · (4,691) · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 If your room layout is temporary or you're moving soon, skip heavy purchases and choose portable upgrades first.

@@ -24,9 +24,9 @@ This guide prioritizes comfort-per-dollar and real desk constraints. If your cur
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **Baseus Monitor Light Bar** — $49.99 · 4.3 out of 5 · (3,931) · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
-- **Quntis Monitor Light Bar** — $39.95 · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-- **Computer Monitor Light Bar Rotary** — $22.99 · 4.4 out of 5 · (484) · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
+- **Baseus Monitor Light Bar** — Price on Amazon · 4.3 out of 5 · (3,931) · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
+- **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
+- **Computer Monitor Light Bar Rotary** — Price on Amazon · 4.4 out of 5 · (484) · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 If your room layout is temporary or you're moving soon, skip heavy purchases and choose portable upgrades first.

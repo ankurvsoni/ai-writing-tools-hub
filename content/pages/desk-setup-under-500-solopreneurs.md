@@ -24,10 +24,10 @@ This guide prioritizes comfort-per-dollar and real desk constraints. If your cur
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **BestOffice Ergonomic Mid-Back Chair** — $38.98 · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
-- **HUANUO Single Arm 13-34** — $39.99 · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
-- **Quntis Monitor Light Bar** — $39.95 · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-- **Aothia Leather Desk Pad 31.5x15.7** — $13.99 · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)
+- **BestOffice Ergonomic Mid-Back Chair** — Price on Amazon · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
+- **HUANUO Single Arm 13-34** — Price on Amazon · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
+- **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
+- **Aothia Leather Desk Pad 31.5x15.7** — Price on Amazon · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)
 
 ## Who should skip this
 If your room layout is temporary or you're moving soon, skip heavy purchases and choose portable upgrades first.
