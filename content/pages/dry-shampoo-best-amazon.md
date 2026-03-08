@@ -25,11 +25,17 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 ## Top picks (live snapshot)
 - **Dry shampoo for oily roots** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)  
-  Tradeoff: Strong oil control can leave more visible residue.
+  Best for: fast refresh between washes and oily roots.
+  Why pick: saves time when full wash is not practical.
+  Watchout: Strong oil control can leave more visible residue.
 - **Dry shampoo for dark hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)  
-  Tradeoff: Tinted formulas can transfer onto light fabrics.
+  Best for: fast refresh between washes and oily roots.
+  Why pick: saves time when full wash is not practical.
+  Watchout: Tinted formulas can transfer onto light fabrics.
 - **Unscented dry shampoo options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)  
-  Tradeoff: Unscented options may have weaker odor masking.
+  Best for: fast refresh between washes and oily roots.
+  Why pick: saves time when full wash is not practical.
+  Watchout: Unscented options may have weaker odor masking.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.

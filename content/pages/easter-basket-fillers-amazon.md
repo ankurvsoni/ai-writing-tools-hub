@@ -25,11 +25,17 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 
 ## Top picks (live snapshot)
 - **Easter basket fillers (general)** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)  
-  Tradeoff: Fast variety, quality varies by listing freshness.
+  Best for: gift buyers who want low-regret fillers by age.
+  Why pick: strong variety with quick comparison potential.
+  Watchout: Fast variety, quality varies by listing freshness.
 - **NeeDoh-style fidget picks** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)  
-  Tradeoff: Trending sensory items can sell out quickly.
+  Best for: gift buyers who want low-regret fillers by age.
+  Why pick: strong variety with quick comparison potential.
+  Watchout: Trending sensory items can sell out quickly.
 - **Easter candy assortments** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)  
-  Tradeoff: Price-per-item can be worse than local store deals.
+  Best for: gift buyers who want low-regret fillers by age.
+  Why pick: strong variety with quick comparison potential.
+  Watchout: Price-per-item can be worse than local store deals.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.

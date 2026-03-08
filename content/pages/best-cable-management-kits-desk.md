@@ -25,8 +25,17 @@ If your desk looks clean but still feels chaotic, your cables are probably the b
 
 ## Top picks (live snapshot)
 - **VIVO Cable Tray DESK-AC06-1C** — Price on Amazon · 4.6 out of 5 · (1,068) · [Check on Amazon](https://www.amazon.com/dp/B089B4XZM4/?tag=triedandtr0d5-20)
+  Best for: home office buyers improving comfort per dollar.
+  Why pick: clear tradeoff-based choices by budget.
+  Watchout: quality and fit can vary by listing.
 - **VIVO Cable Tray 2-Pack DESK-AC06-2C** — Price on Amazon · 4.6 out of 5 · (856) · [Check on Amazon](https://www.amazon.com/dp/B089B7QQVK/?tag=triedandtr0d5-20)
+  Best for: home office buyers improving comfort per dollar.
+  Why pick: clear tradeoff-based choices by budget.
+  Watchout: quality and fit can vary by listing.
 - **VIVO Cable Tray Rack DESK-AC06-1B** — Price on Amazon · 4.5 out of 5 · (191) · [Check on Amazon](https://www.amazon.com/dp/B085R9HKFV/?tag=triedandtr0d5-20)
+  Best for: home office buyers improving comfort per dollar.
+  Why pick: clear tradeoff-based choices by budget.
+  Watchout: quality and fit can vary by listing.
 
 ## Who should skip this
 Skip full cable channels if you swap gear every week. You will spend more time opening sleeves than working.

@@ -25,8 +25,17 @@ Vertical mice can reduce wrist strain, but day one often feels slower. Give it a
 
 ## Top picks (live snapshot)
 - **Anker Vertical Wireless Mouse** — Price on Amazon · 4.1 out of 5 · (52,898) · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
+  Best for: home office buyers improving comfort per dollar.
+  Why pick: clear tradeoff-based choices by budget.
+  Watchout: quality and fit can vary by listing.
 - **Anker Vertical Wired Mouse** — Price on Amazon · 4.4 out of 5 · (8,941) · [Check on Amazon](https://www.amazon.com/dp/B00FPAVUHC/?tag=triedandtr0d5-20)
+  Best for: home office buyers improving comfort per dollar.
+  Why pick: clear tradeoff-based choices by budget.
+  Watchout: quality and fit can vary by listing.
 - **Logitech MX Master 3S** — Price on Amazon · 4.4 out of 5 · (11,091) · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
+  Best for: home office buyers improving comfort per dollar.
+  Why pick: clear tradeoff-based choices by budget.
+  Watchout: quality and fit can vary by listing.
 
 ## Who should skip this
 Skip vertical mice if your main issue is shoulder pain from bad monitor placement. Solve posture first.

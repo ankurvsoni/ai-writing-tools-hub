@@ -25,11 +25,17 @@ A boneless couch can be great for small-space lounging, but support retention an
 
 ## Top picks (live snapshot)
 - **Boneless couch options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)  
-  Tradeoff: Comfort is strong; support can soften over time.
+  Best for: small-space loungers needing flexible seating.
+  Why pick: high comfort upside when size/shape fits your room.
+  Watchout: Comfort is strong; support can soften over time.
 - **Modular floor couches** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)  
-  Tradeoff: Great flexibility but can take more floor space than expected.
+  Best for: small-space loungers needing flexible seating.
+  Why pick: high comfort upside when size/shape fits your room.
+  Watchout: Great flexibility but can take more floor space than expected.
 - **Washable floor loungers** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)  
-  Tradeoff: Washability claims vary by cover construction.
+  Best for: small-space loungers needing flexible seating.
+  Why pick: high comfort upside when size/shape fits your room.
+  Watchout: Washability claims vary by cover construction.
 
 ## Who should skip this
 Skip these picks if your return window is tight or you need guaranteed fit consistency with zero trial-and-error.

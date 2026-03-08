@@ -25,11 +25,17 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
 
 ## Top picks (live snapshot)
 - **Walking sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)  
-  Tradeoff: Softer footbeds may wear down faster.
+  Best for: walking comfort and daily warm-weather wear.
+  Why pick: easy style + comfort options across budgets.
+  Watchout: Softer footbeds may wear down faster.
 - **Dress sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)  
-  Tradeoff: Style-first picks can compromise all-day comfort.
+  Best for: walking comfort and daily warm-weather wear.
+  Why pick: easy style + comfort options across budgets.
+  Watchout: Style-first picks can compromise all-day comfort.
 - **Arch support sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)  
-  Tradeoff: Support claims vary a lot by foot shape.
+  Best for: walking comfort and daily warm-weather wear.
+  Why pick: easy style + comfort options across budgets.
+  Watchout: Support claims vary a lot by foot shape.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.

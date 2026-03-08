@@ -25,11 +25,17 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 
 ## Top picks (live snapshot)
 - **Workout sets women matching** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)  
-  Tradeoff: Looks good online, sizing consistency varies by seller.
+  Best for: daily gym users prioritizing fit and fabric comfort.
+  Why pick: good value-to-comfort balance in active use.
+  Watchout: Looks good online, sizing consistency varies by seller.
 - **High support sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)  
-  Tradeoff: Higher compression can feel restrictive in long sessions.
+  Best for: daily gym users prioritizing fit and fabric comfort.
+  Why pick: good value-to-comfort balance in active use.
+  Watchout: Higher compression can feel restrictive in long sessions.
 - **Budget gym sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)  
-  Tradeoff: Lower cost often means less durable stitching.
+  Best for: daily gym users prioritizing fit and fabric comfort.
+  Why pick: good value-to-comfort balance in active use.
+  Watchout: Lower cost often means less durable stitching.
 
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.

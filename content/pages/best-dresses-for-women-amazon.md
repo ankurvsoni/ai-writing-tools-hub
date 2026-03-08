@@ -25,11 +25,17 @@ For dresses, fit reliability matters more than photo styling. Filter by recent r
 
 ## Top picks (live snapshot)
 - **Casual dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GKFV3XSX/?tag=triedandtr0d5-20)  
-  Tradeoff: Low prices can mean thinner fabric than photos suggest.
+  Best for: occasion shoppers balancing fit, style, and returns.
+  Why pick: large catalog with clear value differences.
+  Watchout: Low prices can mean thinner fabric than photos suggest.
 - **Work dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DS8T7DDD/?tag=triedandtr0d5-20)  
-  Tradeoff: Sizing and lining quality vary heavily by brand.
+  Best for: occasion shoppers balancing fit, style, and returns.
+  Why pick: large catalog with clear value differences.
+  Watchout: Sizing and lining quality vary heavily by brand.
 - **Vacation dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GJCSVMNH/?tag=triedandtr0d5-20)  
-  Tradeoff: Lightweight fabrics can wrinkle quickly in travel.
+  Best for: occasion shoppers balancing fit, style, and returns.
+  Why pick: large catalog with clear value differences.
+  Watchout: Lightweight fabrics can wrinkle quickly in travel.
 
 ## Who should skip this
 Skip these picks if your return window is tight or you need guaranteed fit consistency with zero trial-and-error.
