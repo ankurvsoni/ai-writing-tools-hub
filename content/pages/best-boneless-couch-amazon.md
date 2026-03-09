@@ -24,24 +24,24 @@ A boneless couch can be great for small-space lounging, but support retention an
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **Boneless couch options** — [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)
-  What it is: Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy Cloud Sofa.
-  Best for: small-space renters prioritizing lounge comfort and flexible layouts.
-  What stands out: fill density and cover construction decide whether comfort lasts past the first month.
-  Before you buy: check reviews for flattening over time, odor on arrival, and cover washability claims.
-  Skip this if: you need firm back support for long seated work sessions.
-- **Modular floor couches** — [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)
-  What it is: 107" Modular Sectional Couches for Living Room.
-  Best for: small-space renters prioritizing lounge comfort and flexible layouts.
-  What stands out: fill density and cover construction decide whether comfort lasts past the first month.
-  Before you buy: check reviews for flattening over time, odor on arrival, and cover washability claims.
-  Skip this if: you need firm back support for long seated work sessions.
-- **Washable floor loungers** — [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)
-  What it is: Sectional Cloud Boneless Sofa Couches for Living Room-113&#39;&#39; Gray 3 Seater U-Shaped.
-  Best for: small-space renters prioritizing lounge comfort and flexible layouts.
-  What stands out: fill density and cover construction decide whether comfort lasts past the first month.
-  Before you buy: check reviews for flattening over time, odor on arrival, and cover washability claims.
-  Skip this if: you need firm back support for long seated work sessions.
+- **Boneless couch options** — Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy C... · ⭐ 4.2/5 (23 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)
+  What it is: Boneless Couch, Upholstered Cloud Couch Sectional with L Shape Chaise, Fluffy Comfy C....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: listing highlights include “☁️【CUSTOMIZABLE MODULAR CLOUD COUCH SECTIONAL】 Enhance your living space with this versatile cloud sofa featuring two independent ”.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Modular floor couches** — 107" Modular Sectional Couches for Living Room, Comfy Boneless L Shaped Cloud Couch w... · ⭐ 4.2/5 (780 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)
+  What it is: 107" Modular Sectional Couches for Living Room, Comfy Boneless L Shaped Cloud Couch w....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: listing highlights include “Modular Sectional Sofa: This L-shaped sectional sofa is all about versatility. It’s designed to be super flexible, so you can chan”.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Washable floor loungers** — Sectional Cloud Boneless Sofa Couches for Living Room-113'' Gray 3 Seater U-Shaped Mo... · ⭐ 4.8/5 (85 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)
+  What it is: Sectional Cloud Boneless Sofa Couches for Living Room-113'' Gray 3 Seater U-Shaped Mo....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: listing highlights include “Full Foam Construction: Experience ultimate comfort with the Living&Giving sofa's full foam construction. This design ensures a co”.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
 ## Who should skip this
 Skip these picks if your return window is tight or you need guaranteed fit consistency with zero trial-and-error.
 

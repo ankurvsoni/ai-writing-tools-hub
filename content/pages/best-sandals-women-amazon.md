@@ -24,24 +24,24 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Walking sandals women** — [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)
-  What it is: ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sandals Water Hiking Shoes.
-  Best for: everyday walkers who care about comfort over trend-only styling.
-  What stands out: strap placement and footbed support consistency are called out repeatedly in buyer feedback.
-  Before you buy: check break-in complaints, strap rubbing notes, and outsole grip comments from recent buyers.
-  Skip this if: you need orthotic-level support for all-day standing without inserts.
-- **Dress sandals women** — [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
-  What it is: ForeMode Strappy Peep Toe Heeled Sandals for Women.
-  Best for: everyday walkers who care about comfort over trend-only styling.
-  What stands out: strap placement and footbed support consistency are called out repeatedly in buyer feedback.
-  Before you buy: check break-in complaints, strap rubbing notes, and outsole grip comments from recent buyers.
-  Skip this if: you need orthotic-level support for all-day standing without inserts.
-- **Arch support sandals women** — [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
-  What it is: Crocs Women&#39;s Tulum Toe Post Sandals, Fuchsia Fun/Tan, 8 Women.
-  Best for: everyday walkers who care about comfort over trend-only styling.
-  What stands out: strap placement and footbed support consistency are called out repeatedly in buyer feedback.
-  Before you buy: check break-in complaints, strap rubbing notes, and outsole grip comments from recent buyers.
-  Skip this if: you need orthotic-level support for all-day standing without inserts.
+- **Walking sandals women** — ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sandals Water Hiking... · ⭐ 4.2/5 (24,068 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)
+  What it is: ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sandals Water Hiking....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: current listing emphasizes convenience and broad shopper appeal.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Dress sandals women** — ForeMode Strappy Peep Toe Heeled Sandals for Women - Elegant and Comfortable Dress Sh... · ⭐ 5.0/5 (11,425 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
+  What it is: ForeMode Strappy Peep Toe Heeled Sandals for Women - Elegant and Comfortable Dress Sh....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: current listing emphasizes convenience and broad shopper appeal.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Arch support sandals women** — Crocs Women's Tulum Toe Post Sandals, Fuchsia Fun/Tan, 8 Women · ⭐ 4.6/5 (7,313 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
+  What it is: Crocs Women's Tulum Toe Post Sandals, Fuchsia Fun/Tan, 8 Women.
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: current listing emphasizes convenience and broad shopper appeal.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 

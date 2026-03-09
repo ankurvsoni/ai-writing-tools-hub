@@ -24,24 +24,24 @@ NeeDoh Nice Cube can be worth it if texture feel is your priority, but listing q
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **NeeDoh Nice Cube listings** — [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
-  What it is: Schylling NeeDoh Nice Cube -Sensory Squeeze Toy with Super Solid Squish.
-  Best for: buyers specifically seeking the denser “slow squish” feel of Nice Cube-style fidgets.
-  What stands out: the tactile profile is distinctive, but seller/listing consistency can vary.
-  Before you buy: verify seller and return policy, then scan low-star reviews for splitting or firmness mismatch.
-  Skip this if: you want zero-variance quality across every color/pack configuration.
-- **Alternative sensory stress toys** — [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)
-  What it is: Schylling Needoh Nice Cube Sensory Toy with a Super Solid Squish - Colors May Vary 3 Pack.
-  Best for: buyers specifically seeking the denser “slow squish” feel of Nice Cube-style fidgets.
-  What stands out: the tactile profile is distinctive, but seller/listing consistency can vary.
-  Before you buy: verify seller and return policy, then scan low-star reviews for splitting or firmness mismatch.
-  Skip this if: you want zero-variance quality across every color/pack configuration.
-- **Fidget toy bundles** — [Check on Amazon](https://www.amazon.com/dp/B0CLB7MQVM/?tag=triedandtr0d5-20)
-  What it is: Nice Cube Translucent NeeDoh...Groovy Glob! Squishy.
-  Best for: buyers specifically seeking the denser “slow squish” feel of Nice Cube-style fidgets.
-  What stands out: the tactile profile is distinctive, but seller/listing consistency can vary.
-  Before you buy: verify seller and return policy, then scan low-star reviews for splitting or firmness mismatch.
-  Skip this if: you want zero-variance quality across every color/pack configuration.
+- **NeeDoh Nice Cube listings** — Schylling NeeDoh Nice Cube -Sensory Squeeze Toy with Super Solid Squish - 2.25" Cube · ⭐ 4.0/5 (78 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
+  What it is: Schylling NeeDoh Nice Cube -Sensory Squeeze Toy with Super Solid Squish - 2.25" Cube.
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: listing highlights include “Bring chill vibes with you everywhere with a squeeze of the Nice Cube!”.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Alternative sensory stress toys** — Schylling Needoh Nice Cube Sensory Toy with a Super Solid Squish - Colors May Vary 3... · ⭐ 4.4/5 (1,086 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)
+  What it is: Schylling Needoh Nice Cube Sensory Toy with a Super Solid Squish - Colors May Vary 3....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: listing highlights include “Premium Material: Made from high-quality, non-toxic silicone that's safe for everyone”.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Fidget toy bundles** — Nice Cube Translucent NeeDoh...Groovy Glob! Squishy, Squeezy, Popping, Stretchy Stres... · ⭐ 4.4/5 (2,128 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0CLB7MQVM/?tag=triedandtr0d5-20)
+  What it is: Nice Cube Translucent NeeDoh...Groovy Glob! Squishy, Squeezy, Popping, Stretchy Stres....
+  Best for: buyers who want this exact listing format and can verify details before checkout.
+  What stands out: listing highlights include “Gift Set Party Bundle Includes 3 BLUE Nice Cube Translucent NeeDohs!”.
+  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
+  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
 ## Who should skip this
 Skip these picks if your return window is tight or you need guaranteed fit consistency with zero trial-and-error.
 
