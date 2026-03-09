@@ -2,7 +2,7 @@ import './globals.css';
 import Link from 'next/link';
 
 export const metadata = {
-  metadataBase: new URL('https://www.orkolabs.com'),
+  metadataBase: new URL('https://reviews.orkolabs.com'),
   title: 'Affiliate Content Hub — Product Reviews & Buying Guides',
   description:
     'Buyer-focused product reviews and buying guides with clear tradeoffs, budget tiers, and practical recommendations.',
