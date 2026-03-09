@@ -26,19 +26,19 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 ## Top picks (live snapshot)
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Workout sets women matching 🟡** — Recommended pick · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)
+- **Two Piece Workout Sets for Women 🟡** — Flared leggings + sports bra matching set · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set option for gym and athleisure routines.
   Best for: buyers training multiple times per week who want a matching set.
   What stands out: convenient bundled top/bottom format for quick outfit planning.
   Before you buy: check opacity, compression consistency, and wash-durability feedback.
   Skip this if: you need premium technical-fabric performance at budget pricing.
-- **High support sets 🔴** — High support sets · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
+- **Women's Active Ombre Sports Bra + Leggings Set 🔴** — Performance-oriented ombre set · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set option for gym and athleisure routines.
   Best for: buyers training multiple times per week who want a matching set.
   What stands out: convenient bundled top/bottom format for quick outfit planning.
   Before you buy: check opacity, compression consistency, and wash-durability feedback.
   Skip this if: you need premium technical-fabric performance at budget pricing.
-- **Budget gym sets 🔴** — Budget gym sets · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)
+- **TDIFFUN Seamless Scrunch Workout Set 🔴** — Seamless leggings + padded halter sports bra · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set option for gym and athleisure routines.
   Best for: buyers training multiple times per week who want a matching set.
   What stands out: convenient bundled top/bottom format for quick outfit planning.
