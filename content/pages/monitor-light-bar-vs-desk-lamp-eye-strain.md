@@ -25,19 +25,19 @@ Screen-heavy workflow? Light bars usually feel cleaner. Paper notes and sketchin
 
 ## Top picks (live snapshot)
 - **Baseus Monitor Light Bar** — Price on Amazon · 4.3 out of 5 · (3,931) · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
-  Baseus Monitor Light Bar - Touch Control Desk Lamp with 3 Light Modes, Computer Monitor Light for Home Office, USB Powered LED Desk Lamp, Black.
+  What it is: Baseus Monitor Light Bar - Touch Control Desk Lamp with 3 Light Modes, Computer Monitor Light for Home Office, USB Powered LED Desk Lamp, Black.
   Best for: people reducing eye strain during night work without lighting the whole room.
   What stands out: directional desk illumination that avoids screen glare when positioned correctly.
   Before you buy: confirm monitor thickness compatibility and whether dimming controls are easy to access mid-session.
   Skip this if: you prefer full-room ambient lighting instead of focused task lighting.
 - **Quntis Monitor Light Bar** — Price on Amazon · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-  Quntis Computer Monitor Lamp, Screen Monitor Light Bar for Eye Caring, USB Reading LED Task Lamp with Auto-Dimming, Dimmable Light Bar, Touch Control, No Glare...
+  What it is: Quntis Computer Monitor Lamp, Screen Monitor Light Bar for Eye Caring, USB Reading LED Task Lamp with Auto-Dimming, Dimmable Light Bar, Touch Control, No Glare.
   Best for: people reducing eye strain during night work without lighting the whole room.
   What stands out: directional desk illumination that avoids screen glare when positioned correctly.
   Before you buy: confirm monitor thickness compatibility and whether dimming controls are easy to access mid-session.
   Skip this if: you prefer full-room ambient lighting instead of focused task lighting.
 - **Computer Monitor Light Bar Rotary** — Price on Amazon · 4.4 out of 5 · (484) · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
-  Computer Monitor Light Bar Screen Lamp: USB Powered LED Monitor Lamp with Stepless Dimming &amp; Hue Adjustment &amp; Memory Function &amp; No Screen Glare for...
+  What it is: Computer Monitor Light Bar Screen Lamp: USB Powered LED Monitor Lamp with Stepless Dimming &amp; Hue Adjustment &amp; Memory Function &amp; No Screen Glare for.
   Best for: people reducing eye strain during night work without lighting the whole room.
   What stands out: directional desk illumination that avoids screen glare when positioned correctly.
   Before you buy: confirm monitor thickness compatibility and whether dimming controls are easy to access mid-session.
