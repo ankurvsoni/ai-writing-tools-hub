@@ -28,17 +28,17 @@ Under $500, comfort has to win. Put money into chair fit and monitor height befo
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **Anker 2.4G Wireless Vertical Ergonomic Optical  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
-  What it is: a desk setup accessory option for productivity and ergonomics improvement.
-  Best for: buyers solving a specific desk workflow pain point with practical budget-conscious gear.
-  What stands out: real-world compatibility and daily-use comfort determine value more than feature count.
-  Before you buy: check recent low-star reviews for compatibility failures in setups similar to yours.
-  Skip this if: you need enterprise-grade materials and no tolerance for setup tradeoffs.
+  What it is: an ergonomic mouse component for reducing wrist strain in budget desk builds.
+  Best for: under-$500 setups where comfort upgrades need strong value-to-cost ratio.
+  What stands out: small accessory spend can deliver noticeable comfort gains quickly.
+  Before you buy: prioritize fit-to-hand over spec sheet features.
+  Skip this if: you already have a pain-free pointing setup.
 - **ErGear Height Adjustable Electric Standing Des  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
-  What it is: a desk setup accessory option for productivity and ergonomics improvement.
-  Best for: buyers solving a specific desk workflow pain point with practical budget-conscious gear.
-  What stands out: real-world compatibility and daily-use comfort determine value more than feature count.
-  Before you buy: check recent low-star reviews for compatibility failures in setups similar to yours.
-  Skip this if: you need enterprise-grade materials and no tolerance for setup tradeoffs.
+  What it is: an affordable standing desk foundation for movement-friendly workdays.
+  Best for: budget-conscious users wanting sit-stand flexibility without premium desk pricing.
+  What stands out: biggest ergonomic ROI in this budget tier usually comes from desk adjustability.
+  Before you buy: verify frame stability reports at your target height.
+  Skip this if: you need large executive-size desk surfaces.
 ## Who should skip this
 Skip a full refresh if you are changing rooms soon. Buy only portable pieces you can carry to the next setup.
 

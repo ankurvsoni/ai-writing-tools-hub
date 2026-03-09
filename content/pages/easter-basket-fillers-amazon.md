@@ -28,23 +28,23 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **Schylling NeeDoh Nice Cube -Sensory Squeeze To  🔴** — Sensory fidget filler · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
-  What it is: a sensory fidget pick for tactile stress-relief and desk/gift use.
-  Best for: older kids/teens or desk users who will actually reuse squeeze-style fidgets.
-  What stands out: texture feel and durability consistency matter more than novelty shape names.
-  Before you buy: check split/leak durability comments and seller consistency on the exact listing variant.
-  Skip this if: you need heavy-duty durability under constant high-pressure squeezing.
+  What it is: a single-cube sensory fidget filler that fits eggs or compact baskets.
+  Best for: older kids/teens likely to keep using tactile fidgets after Easter day.
+  What stands out: denser squeeze feel differs from softer stress-toy alternatives.
+  Before you buy: verify age fit and check durability complaints for split/leak issues.
+  Skip this if: you need toddler-safe oversized fillers with no small-part concern.
 - **Easter Egg Fillers  🔴** — Multi-item variety filler pack · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)
-  What it is: an Easter basket-filler pick designed for quick multi-item gifting.
-  Best for: parents assembling multiple baskets where age-fit and repeat-use value matter.
-  What stands out: bundle composition and item-count convenience are the key tradeoffs versus curated single gifts.
-  Before you buy: confirm exact included items/age suitability and check photo reviews for duplicates or quality variance.
-  Skip this if: you need allergy-specific or highly curated premium basket contents.
+  What it is: a mixed novelty filler pack designed for fast bulk basket/egg filling.
+  Best for: multi-child basket builds where item count coverage is the main priority.
+  What stands out: bulk variety convenience outweighs curated single-item quality.
+  Before you buy: inspect photo reviews for duplicate items and breakage patterns.
+  Skip this if: you want branded keepsake gifts over novelty assortment packs.
 - **Easter Basket Stuffers - Premade Easter Basket  🔴** — Premade candy + stuffer bundle · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)
-  What it is: an Easter basket-filler pick designed for quick multi-item gifting.
-  Best for: parents assembling multiple baskets where age-fit and repeat-use value matter.
-  What stands out: bundle composition and item-count convenience are the key tradeoffs versus curated single gifts.
-  Before you buy: confirm exact included items/age suitability and check photo reviews for duplicates or quality variance.
-  Skip this if: you need allergy-specific or highly curated premium basket contents.
+  What it is: a premade candy+stuffer bundle for minimal-decision basket assembly.
+  Best for: last-minute buyers prioritizing speed over full customization.
+  What stands out: ready-to-go format cuts shopping time for multiple baskets.
+  Before you buy: verify allergens/ingredients and exact included quantity before checkout.
+  Skip this if: you need strict dietary filtering or custom candy selection.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 

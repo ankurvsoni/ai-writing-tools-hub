@@ -27,23 +27,23 @@ Walking pads help with low-focus admin work, not precision tasks. Use them as a 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **ErGear Electric Standing Desk 47x24 🔴** — ErGear Electric Standing Desk 47x24 · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
-  What it is: an electric standing desk option for sit-stand home-office workflow.
-  Best for: solopreneurs improving posture and movement without building an expensive custom setup.
-  What stands out: frame stability at typing height and memory presets are the key long-term satisfaction drivers.
-  Before you buy: verify desktop dimensions, load limits, and recent wobble reports for your monitor configuration.
-  Skip this if: you need premium heavy-frame rigidity at full height with dual-arm heavy monitor setups.
+  What it is: an entry standing-desk option often paired with walking-pad routines.
+  Best for: users testing movement-based work habits on a practical budget.
+  What stands out: desk stability while walking matters more than headline speed specs.
+  Before you buy: check wobble feedback under light treadmill movement.
+  Skip this if: you need zero motion transfer while typing at speed.
 - **ErGear Electric Standing Desk 55x28 🔴** — ErGear Electric Standing Desk 55x28 · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
-  What it is: an electric standing desk option for sit-stand home-office workflow.
-  Best for: solopreneurs improving posture and movement without building an expensive custom setup.
-  What stands out: frame stability at typing height and memory presets are the key long-term satisfaction drivers.
-  Before you buy: verify desktop dimensions, load limits, and recent wobble reports for your monitor configuration.
-  Skip this if: you need premium heavy-frame rigidity at full height with dual-arm heavy monitor setups.
+  What it is: a larger standing-desk variant suited for wider monitor setups plus movement gear.
+  Best for: users combining walking pad + multi-monitor workflow in one station.
+  What stands out: extra desktop width helps keep keyboard/mouse zone stable while walking.
+  Before you buy: verify room depth so chair, desk, and walking pad coexist comfortably.
+  Skip this if: your workspace is too tight for safe walking clearance.
 - **ComfiLife Anti-Fatigue Mat 20x32 🔴** — ComfiLife Anti-Fatigue Mat 20x32 · [Check on Amazon](https://www.amazon.com/dp/B0797Q5HL7/?tag=triedandtr0d5-20)
-  What it is: a standing-desk movement comfort add-on (walking pad or anti-fatigue support item).
-  Best for: users adding light movement/comfort during calls, reading, and admin blocks.
-  What stands out: noise profile and daily usability are more important than peak speed or spec-sheet claims.
-  Before you buy: verify runtime/noise feedback and ensure footprint fits your desk clearance.
-  Skip this if: you want high-intensity cardio performance rather than low-intensity desk movement support.
+  What it is: an anti-fatigue mat accessory for standing periods between walking intervals.
+  Best for: users who alternate standing and light movement instead of continuous walking.
+  What stands out: lower-foot-pressure relief can extend standing tolerance without electronics.
+  Before you buy: check mat thickness against desk height ergonomics.
+  Skip this if: you primarily sit and won’t use standing blocks consistently.
 ## Who should skip this
 Skip if noise or vibration will annoy neighbors, or if your desk area has poor cable safety near your feet.
 

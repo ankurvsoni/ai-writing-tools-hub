@@ -27,23 +27,23 @@ A boneless couch can be great for small-space lounging, but support retention an
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **Boneless couch options 🔴** — Boneless couch options · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)
-  What it is: a soft lounge seating pick for casual at-home comfort.
-  Best for: small-space buyers prioritizing relaxed seating over formal posture support.
-  What stands out: fill density and cover quality determine whether comfort holds up after initial use.
-  Before you buy: check flattening, odor-on-arrival, and cover-care feedback before ordering.
-  Skip this if: you need firm ergonomic support for long upright work sessions.
+  What it is: a foam-filled lounge seating option for relaxed floor/low seating setups.
+  Best for: casual living spaces prioritizing cozy seating over upright posture support.
+  What stands out: soft-fill comfort feel can be inviting for media/reading downtime.
+  Before you buy: check flattening and odor-on-arrival feedback after week-one use.
+  Skip this if: you need firm lumbar support for long upright sessions.
 - **Modular floor couches 🔴** — Modular floor couches · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)
-  What it is: a soft lounge seating pick for casual at-home comfort.
-  Best for: small-space buyers prioritizing relaxed seating over formal posture support.
-  What stands out: fill density and cover quality determine whether comfort holds up after initial use.
-  Before you buy: check flattening, odor-on-arrival, and cover-care feedback before ordering.
-  Skip this if: you need firm ergonomic support for long upright work sessions.
+  What it is: a compact beanbag-style couch alternative for flexible room layouts.
+  Best for: renters or small spaces where movable soft seating is useful.
+  What stands out: portability and flexible placement beat rigid furniture constraints.
+  Before you buy: verify true dimensions; listing photos often make size appear larger.
+  Skip this if: you expect traditional sofa structure and long-term shape retention.
 - **Washable floor loungers 🔴** — Washable floor loungers · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)
-  What it is: a category-relevant Amazon pick.
-  Best for: buyers matching this use-case who want fewer return surprises.
-  What stands out: the listing format maps clearly to a common buyer scenario in this category.
-  Before you buy: verify exact variant details and scan recent low-star reviews for repeat complaints.
-  Skip this if: you need strict premium-grade requirements this listing category may not reliably guarantee.
+  What it is: an oversized soft lounge piece aimed at sink-in comfort experiences.
+  Best for: low-maintenance relaxation corners rather than formal seating areas.
+  What stands out: comfort-first profile favors lounging aesthetics over structured support.
+  Before you buy: read cover cleaning and refillability details before committing.
+  Skip this if: you need easy standing/get-up ergonomics for daily work use.
 ## Who should skip this
 Skip these picks if your return window is tight or you need guaranteed fit consistency with zero trial-and-error.
 

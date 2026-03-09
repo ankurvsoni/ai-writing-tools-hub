@@ -28,23 +28,23 @@ At $1,000, you can build a setup that actually lasts: stable desk, real chair fi
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **NB North Bayou Monitor Mount  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B01AI2YGK4/?tag=triedandtr0d5-20)
-  What it is: a monitor positioning option (arm or stand) for better eye-level ergonomics and desk space.
-  Best for: users fixing neck/shoulder posture issues caused by low or fixed monitor height.
-  What stands out: range-of-motion stability and anti-sag behavior decide long-term usability.
-  Before you buy: verify VESA support, monitor weight limits, and desk-edge/mount compatibility before buying.
-  Skip this if: your desk cannot safely handle clamp pressure or you need ultra-frequent monitor repositioning.
+  What it is: a monitor positioning arm for posture and desk-space optimization.
+  Best for: sub-$1000 setups aiming to improve ergonomics without replacing core gear.
+  What stands out: reclaiming desk depth often boosts workflow more than adding new gadgets.
+  Before you buy: verify VESA compatibility and desk clamp clearance.
+  Skip this if: your desk edge cannot support clamps safely.
 - **FLEXISPOT EN2 Whole-Piece Standing Desk with C  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)
-  What it is: an electric standing desk option for sit-stand home-office workflow.
-  Best for: solopreneurs improving posture and movement without building an expensive custom setup.
-  What stands out: frame stability at typing height and memory presets are the key long-term satisfaction drivers.
-  Before you buy: verify desktop dimensions, load limits, and recent wobble reports for your monitor configuration.
-  Skip this if: you need premium heavy-frame rigidity at full height with dual-arm heavy monitor setups.
+  What it is: a full desk upgrade component for stable sit-stand productivity.
+  Best for: users allocating budget to the primary ergonomic foundation first.
+  What stands out: desk stability under typing load impacts comfort all day, every day.
+  Before you buy: match desk size to monitor count and accessory footprint.
+  Skip this if: you already have a reliable sit-stand base.
 - **Logitech MX Master 3S Wireless Mouse Standard  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
-  What it is: an ergonomic mouse option aimed at reducing wrist/forearm strain during long desk sessions.
-  Best for: users willing to trade a short adaptation period for better comfort over multi-hour workdays.
-  What stands out: shape/angle compatibility with your hand size matters more than raw sensor spec marketing.
-  Before you buy: check hand-size fit feedback and reports of button/scroll-wheel durability before purchasing.
-  Skip this if: you need zero learning curve and immediate gaming-style precision from day one.
+  What it is: a premium productivity mouse component for precision and workflow shortcuts.
+  Best for: operators who spend heavy hours in editing, docs, and multitasking apps.
+  What stands out: programmable controls can save repetitive micro-actions across workdays.
+  Before you buy: confirm grip comfort; shortcuts are useless if shape causes fatigue.
+  Skip this if: basic mice already meet your speed and comfort needs.
 ## Who should skip this
 Skip premium add-ons if your core desk/chair pair is still unresolved. Foundations first, polish later.
 
