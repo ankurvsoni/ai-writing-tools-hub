@@ -27,24 +27,24 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Batiste Original Dry Shampoo  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
-  What it is: a dry-shampoo pick aimed at reducing oil visibility between wash days.
-  Best for: busy routines needing quick root refresh without a full wash cycle.
-  What stands out: residue behavior and scent strength matter more than marketing claims in this category.
-  Before you buy: check dark-hair white-cast feedback and fragrance sensitivity comments before checkout.
-  Skip this if: you require fully residue-free, fragrance-minimal performance every use.
-- **Batiste Dry Shampoo  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
-  What it is: a dry-shampoo pick aimed at reducing oil visibility between wash days.
-  Best for: busy routines needing quick root refresh without a full wash cycle.
-  What stands out: residue behavior and scent strength matter more than marketing claims in this category.
-  Before you buy: check dark-hair white-cast feedback and fragrance sensitivity comments before checkout.
-  Skip this if: you require fully residue-free, fragrance-minimal performance every use.
-- **Batiste Dry Shampoo for Dark Hair  🔴** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
-  What it is: a dry-shampoo pick aimed at reducing oil visibility between wash days.
-  Best for: busy routines needing quick root refresh without a full wash cycle.
-  What stands out: residue behavior and scent strength matter more than marketing claims in this category.
-  Before you buy: check dark-hair white-cast feedback and fragrance sensitivity comments before checkout.
-  Skip this if: you require fully residue-free, fragrance-minimal performance every use.
+- **Batiste Original Dry Shampoo  🔴** — Everyday quick-refresh pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
+  What it is: a classic aerosol dry shampoo for absorbing oil at the roots between washes.
+  Best for: users with normal-to-oily roots who want a fast morning reset before work or errands.
+  What stands out: easy spray coverage and strong oil-control reputation, but scent can feel bold for sensitive users.
+  Before you buy: check newest reviews for nozzle reliability and same-day residue feel on your hair texture.
+  Skip this if: you’re highly fragrance-sensitive or want very light, almost-undetectable product feel.
+- **Batiste Dry Shampoo  🔴** — Light refresh + volume option · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
+  What it is: a Batiste variant positioned for quick refresh with added texture/volume effect.
+  Best for: flat roots where you want both oil reduction and visible lift in one step.
+  What stands out: tends to add more texture than some minimalist formulas, which can help styling on day-2 hair.
+  Before you buy: review comments about white cast and brush-out effort, especially for dark hair shades.
+  Skip this if: you want a purely invisible finish with zero texturizing effect.
+- **Batiste Dry Shampoo for Dark Hair  🔴** — Dark-hair targeted pick · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
+  What it is: a tinted dry shampoo variant intended to reduce visible white residue on darker hair.
+  Best for: brunettes/black hair users who struggle with chalky cast from standard dry shampoos.
+  What stands out: color-tinted formula can blend better at the roots compared with untinted versions.
+  Before you buy: check transfer/staining feedback (fingers, pillow, light clothing) before buying multiples.
+  Skip this if: you prefer colorless formulas or often wear light collars/scarves near the hairline.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 
