@@ -28,23 +28,23 @@ At $1,000, you can build a setup that actually lasts: stable desk, real chair fi
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **NB North Bayou Monitor Mount  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B01AI2YGK4/?tag=triedandtr0d5-20)
-  What it is: a category-relevant Amazon pick.
-  Best for: buyers matching this use-case who want fewer return surprises.
-  What stands out: the listing format maps clearly to a common buyer scenario in this category.
-  Before you buy: verify exact variant details and scan recent low-star reviews for repeat complaints.
-  Skip this if: you need strict premium-grade requirements this listing category may not reliably guarantee.
+  What it is: a monitor positioning option (arm or stand) for better eye-level ergonomics and desk space.
+  Best for: users fixing neck/shoulder posture issues caused by low or fixed monitor height.
+  What stands out: range-of-motion stability and anti-sag behavior decide long-term usability.
+  Before you buy: verify VESA support, monitor weight limits, and desk-edge/mount compatibility before buying.
+  Skip this if: your desk cannot safely handle clamp pressure or you need ultra-frequent monitor repositioning.
 - **FLEXISPOT EN2 Whole-Piece Standing Desk with C  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)
-  What it is: an electric desk/workstation pick for home-office ergonomics.
-  Best for: solopreneurs upgrading posture and workflow without overspending on non-essential extras.
-  What stands out: stability at working height matters more than flashy add-ons for long-term satisfaction.
-  Before you buy: confirm desk dimensions, frame load, and wobble feedback for your monitor setup.
-  Skip this if: you need enterprise-grade rigidity at maximum height with heavy multi-monitor arms.
+  What it is: an electric standing desk option for sit-stand home-office workflow.
+  Best for: solopreneurs improving posture and movement without building an expensive custom setup.
+  What stands out: frame stability at typing height and memory presets are the key long-term satisfaction drivers.
+  Before you buy: verify desktop dimensions, load limits, and recent wobble reports for your monitor configuration.
+  Skip this if: you need premium heavy-frame rigidity at full height with dual-arm heavy monitor setups.
 - **Logitech MX Master 3S Wireless Mouse Standard  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
-  What it is: an ergonomic mouse pick for reducing wrist strain in long sessions.
-  Best for: users willing to adapt grip style for better comfort over time.
-  What stands out: shape/angle fit to hand size is the biggest determinant of success in this category.
-  Before you buy: check hand-size fit notes and return flexibility in case adaptation feels off.
-  Skip this if: you need instant precision with zero learning curve.
+  What it is: an ergonomic mouse option aimed at reducing wrist/forearm strain during long desk sessions.
+  Best for: users willing to trade a short adaptation period for better comfort over multi-hour workdays.
+  What stands out: shape/angle compatibility with your hand size matters more than raw sensor spec marketing.
+  Before you buy: check hand-size fit feedback and reports of button/scroll-wheel durability before purchasing.
+  Skip this if: you need zero learning curve and immediate gaming-style precision from day one.
 ## Who should skip this
 Skip premium add-ons if your core desk/chair pair is still unresolved. Foundations first, polish later.
 

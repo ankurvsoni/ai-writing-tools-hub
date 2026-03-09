@@ -28,11 +28,11 @@ Screen-heavy workflow? Light bars usually feel cleaner. Paper notes and sketchin
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **Xiaomi Mi Computer Monitor Light Bar - Easy In  🟡** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B08W2C5W59/?tag=triedandtr0d5-20)
-  What it is: a monitor-mounted task-light pick for reducing eye strain at night.
-  Best for: late-evening desk users who need focused lighting without room glare.
-  What stands out: monitor compatibility and glare control are more important than max brightness claims.
-  Before you buy: confirm monitor thickness compatibility and control accessibility during work.
-  Skip this if: you prefer full-room ambient lighting instead of focused task lighting.
+  What it is: a monitor-mounted task light option designed to reduce eye strain in low-light work.
+  Best for: night-time desk users who want focused illumination without lighting the entire room.
+  What stands out: glare control and monitor compatibility matter more than headline brightness claims.
+  Before you buy: confirm monitor thickness compatibility and control placement usability before checkout.
+  Skip this if: you prefer wide ambient room lighting instead of focused desk-only illumination.
 ## Who should skip this
 Skip light bars when your monitor bezel or webcam setup makes mounting awkward. Friction kills consistency.
 
