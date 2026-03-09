@@ -24,20 +24,23 @@ Screen-heavy workflow? Light bars usually feel cleaner. Paper notes and sketchin
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **Baseus Monitor Light Bar** — Baseus Monitor Light Bar listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
+- **Baseus Monitor Light Bar** — Baseus Monitor Light Bar listing · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
   What it is: a monitor-mounted task-light option for evening desk work.
+  Review confidence: Low.
   Best for: users reducing screen-area glare without lighting the whole room.
   What stands out: targeted desk illumination can improve focus in low-light setups.
   Before you buy: check monitor thickness compatibility and control placement convenience.
   Skip this if: you prefer broad ambient room lighting over focused task lighting.
-- **Quntis Monitor Light Bar** — Quntis Monitor Light Bar listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
+- **Quntis Monitor Light Bar** — Quntis Monitor Light Bar listing · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
   What it is: a monitor-mounted task-light option for evening desk work.
+  Review confidence: Low.
   Best for: users reducing screen-area glare without lighting the whole room.
   What stands out: targeted desk illumination can improve focus in low-light setups.
   Before you buy: check monitor thickness compatibility and control placement convenience.
   Skip this if: you prefer broad ambient room lighting over focused task lighting.
-- **Computer Monitor Light Bar Rotary** — Computer Monitor Light Bar Rotary listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
+- **Computer Monitor Light Bar Rotary** — Computer Monitor Light Bar Rotary listing · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
   What it is: a monitor-mounted task-light option for evening desk work.
+  Review confidence: Low.
   Best for: users reducing screen-area glare without lighting the whole room.
   What stands out: targeted desk illumination can improve focus in low-light setups.
   Before you buy: check monitor thickness compatibility and control placement convenience.

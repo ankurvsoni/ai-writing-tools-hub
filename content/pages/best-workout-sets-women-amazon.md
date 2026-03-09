@@ -24,20 +24,23 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Workout sets women matching** — Two Piece Workout Sets for Women, 2 Piece Matching Flared Leggings &... · ⭐ 4.6/5 · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)
+- **Workout sets women matching** — Two Piece Workout Sets for Women, 2 Piece Matching Flared Leggings &... · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set option for gym and athleisure routines.
+  Review confidence: Medium.
   Best for: buyers training multiple times per week who want a matching set.
   What stands out: convenient bundled top/bottom format for quick outfit planning.
   Before you buy: check opacity, compression consistency, and wash-durability feedback.
   Skip this if: you need premium technical-fabric performance at budget pricing.
-- **High support sets** — High support sets listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
+- **High support sets** — High support sets listing · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set option for gym and athleisure routines.
+  Review confidence: Low.
   Best for: buyers training multiple times per week who want a matching set.
   What stands out: convenient bundled top/bottom format for quick outfit planning.
   Before you buy: check opacity, compression consistency, and wash-durability feedback.
   Skip this if: you need premium technical-fabric performance at budget pricing.
-- **Budget gym sets** — Budget gym sets listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)
+- **Budget gym sets** — Budget gym sets listing · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set option for gym and athleisure routines.
+  Review confidence: Low.
   Best for: buyers training multiple times per week who want a matching set.
   What stands out: convenient bundled top/bottom format for quick outfit planning.
   Before you buy: check opacity, compression consistency, and wash-durability feedback.

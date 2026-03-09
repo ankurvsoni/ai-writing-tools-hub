@@ -24,20 +24,23 @@ Vacuum choice should start with floor type and pet hair load, not just peak suct
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Vacuum cleaners for home** — Vacuum cleaners for home listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09DJJQGCN/?tag=triedandtr0d5-20)
+- **Vacuum cleaners for home** — Vacuum cleaners for home listing · [Check on Amazon](https://www.amazon.com/dp/B09DJJQGCN/?tag=triedandtr0d5-20)
   What it is: a home vacuum option intended for routine mixed-floor cleaning.
+  Review confidence: Low.
   Best for: households balancing everyday pickup performance and manageable handling.
   What stands out: designed for convenience-first maintenance in regular cleaning cycles.
   Before you buy: confirm battery/runtime or cord length based on your room layout.
   Skip this if: you need deep-clean power equivalent to heavier premium models.
-- **Vacuum for pet hair** — Vacuum for pet hair listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D7LVQY7N/?tag=triedandtr0d5-20)
+- **Vacuum for pet hair** — Vacuum for pet hair listing · [Check on Amazon](https://www.amazon.com/dp/B0D7LVQY7N/?tag=triedandtr0d5-20)
   What it is: a home vacuum option intended for routine mixed-floor cleaning.
+  Review confidence: Low.
   Best for: households balancing everyday pickup performance and manageable handling.
   What stands out: designed for convenience-first maintenance in regular cleaning cycles.
   Before you buy: confirm battery/runtime or cord length based on your room layout.
   Skip this if: you need deep-clean power equivalent to heavier premium models.
-- **Lightweight vacuum cleaners** — Vazone R6X Corded Stick Vacuum Cleaners for Home, 20Kpa Powerful Suct... · ⭐ 4.3/5 (1319 ratings) · [Check on Amazon](https://www.amazon.com/dp/B0DGX2C784/?tag=triedandtr0d5-20)
+- **Lightweight vacuum cleaners** — Vazone R6X Corded Stick Vacuum Cleaners for Home, 20Kpa Powerful Suct... · [Check on Amazon](https://www.amazon.com/dp/B0DGX2C784/?tag=triedandtr0d5-20)
   What it is: a home vacuum option intended for routine mixed-floor cleaning.
+  Review confidence: High.
   Best for: households balancing everyday pickup performance and manageable handling.
   What stands out: designed for convenience-first maintenance in regular cleaning cycles.
   Before you buy: confirm battery/runtime or cord length based on your room layout.

@@ -24,20 +24,23 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Easter basket fillers (general)** — Easter basket fillers (general) listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)
+- **Easter basket fillers (general)** — Easter basket fillers (general) listing · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)
   What it is: a mixed Easter basket-filler bundle intended for quick multi-basket shopping.
+  Review confidence: Low.
   Best for: parents building multiple baskets on a tight timeline.
   What stands out: high item-count format designed for fast basket coverage.
   Before you buy: verify exact included items and age suitability before placing the order.
   Skip this if: you want curated keepsake gifts rather than mixed filler packs.
-- **NeeDoh-style fidget picks** — NeeDoh-style fidget picks listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
+- **NeeDoh-style fidget picks** — NeeDoh-style fidget picks listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
   What it is: a sensory squeeze-toy pick commonly used as an Easter basket filler.
+  Review confidence: Low.
   Best for: older kids/teens who enjoy tactile fidget items over candy-heavy baskets.
   What stands out: easy-to-add, small-format filler that works for baskets and egg-hunt prizes.
   Before you buy: confirm age guidance, item count, and return terms on the exact listing.
   Skip this if: you prefer fully branded, premium gift items instead of novelty fillers.
-- **Easter candy assortments** — Easter Basket Stuffers - Premade Easter Baskets for Kids - 24 Pack Se... · ⭐ 4.7/5 · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)
+- **Easter candy assortments** — Easter Basket Stuffers - Premade Easter Baskets for Kids - 24 Pack Se... · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)
   What it is: a premade candy-and-stuffer style basket option for quick checkout.
+  Review confidence: Medium.
   Best for: last-minute basket assembly where convenience matters most.
   What stands out: reduces manual item-by-item shopping for multi-basket prep.
   Before you buy: double-check allergens, ingredient notes, and total included quantity.

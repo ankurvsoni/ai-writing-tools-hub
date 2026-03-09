@@ -24,20 +24,23 @@ NeeDoh Nice Cube can be worth it if texture feel is your priority, but listing q
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **NeeDoh Nice Cube listings** — NeeDoh Nice Cube listings listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
+- **NeeDoh Nice Cube listings** — NeeDoh Nice Cube listings listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
   What it is: a sensory fidget option centered on squeeze/tactile stress-relief use.
+  Review confidence: Low.
   Best for: kids/teens and desk users who actually reuse fidget items.
   What stands out: compact tactile format that works as both desk toy and gift filler.
   Before you buy: check durability feedback and ensure listing seller consistency.
   Skip this if: you need guaranteed heavy-use durability across every variant.
-- **Alternative sensory stress toys** — Alternative sensory stress toys listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)
+- **Alternative sensory stress toys** — Alternative sensory stress toys listing · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)
   What it is: a sensory fidget option centered on squeeze/tactile stress-relief use.
+  Review confidence: Low.
   Best for: kids/teens and desk users who actually reuse fidget items.
   What stands out: compact tactile format that works as both desk toy and gift filler.
   Before you buy: check durability feedback and ensure listing seller consistency.
   Skip this if: you need guaranteed heavy-use durability across every variant.
-- **Fidget toy bundles** — Nice Cube Translucent NeeDoh...Groovy Glob! Squishy, Squeezy, Popping... · ⭐ 4.4/5 (103 ratings) · [Check on Amazon](https://www.amazon.com/dp/B0CLB7MQVM/?tag=triedandtr0d5-20)
+- **Fidget toy bundles** — Nice Cube Translucent NeeDoh...Groovy Glob! Squishy, Squeezy, Popping... · [Check on Amazon](https://www.amazon.com/dp/B0CLB7MQVM/?tag=triedandtr0d5-20)
   What it is: a sensory fidget option centered on squeeze/tactile stress-relief use.
+  Review confidence: Medium.
   Best for: kids/teens and desk users who actually reuse fidget items.
   What stands out: compact tactile format that works as both desk toy and gift filler.
   Before you buy: check durability feedback and ensure listing seller consistency.

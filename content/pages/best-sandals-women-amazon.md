@@ -24,20 +24,23 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Walking sandals women** — ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sanda... · ⭐ 4.2/5 (24,068 ratings) · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)
+- **Walking sandals women** — ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sanda... · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)
   What it is: a women’s sandal option for everyday warm-weather use.
+  Review confidence: High.
   Best for: buyers prioritizing comfort and easy daily wear.
   What stands out: practical style that’s easy to pair across casual outfits.
   Before you buy: review strap fit, sole grip, and break-in notes in recent reviews.
   Skip this if: you need orthopedic-grade support without inserts.
-- **Dress sandals women** — Dress sandals women listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
+- **Dress sandals women** — Dress sandals women listing · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
   What it is: a women’s sandal option for everyday warm-weather use.
+  Review confidence: Low.
   Best for: buyers prioritizing comfort and easy daily wear.
   What stands out: practical style that’s easy to pair across casual outfits.
   Before you buy: review strap fit, sole grip, and break-in notes in recent reviews.
   Skip this if: you need orthopedic-grade support without inserts.
-- **Arch support sandals women** — Arch support sandals women listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
+- **Arch support sandals women** — Arch support sandals women listing · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
   What it is: a women’s sandal option for everyday warm-weather use.
+  Review confidence: Low.
   Best for: buyers prioritizing comfort and easy daily wear.
   What stands out: practical style that’s easy to pair across casual outfits.
   Before you buy: review strap fit, sole grip, and break-in notes in recent reviews.

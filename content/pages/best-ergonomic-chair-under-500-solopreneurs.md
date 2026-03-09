@@ -24,20 +24,23 @@ Chair marketing is noisy. What actually matters under $500 is seat depth, lumbar
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **BestOffice Ergonomic Mid-Back Chair** — BestOffice Ergonomic Mid-Back Chair listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
+- **BestOffice Ergonomic Mid-Back Chair** — BestOffice Ergonomic Mid-Back Chair listing · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
   What it is: an ergonomic office chair option for longer seated work blocks.
+  Review confidence: Low.
   Best for: buyers prioritizing comfort and adjustability under a fixed budget.
   What stands out: aims for practical support features at lower price points.
   Before you buy: validate seat dimensions, lumbar range, and armrest adjustability before purchase.
   Skip this if: you want premium mesh/frame longevity comparable to top-tier chairs.
-- **BestOffice Ergonomic Mesh Chair** — BestOffice Ergonomic Mesh Chair listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0147WIC7E/?tag=triedandtr0d5-20)
+- **BestOffice Ergonomic Mesh Chair** — BestOffice Ergonomic Mesh Chair listing · [Check on Amazon](https://www.amazon.com/dp/B0147WIC7E/?tag=triedandtr0d5-20)
   What it is: an ergonomic office chair option for longer seated work blocks.
+  Review confidence: Low.
   Best for: buyers prioritizing comfort and adjustability under a fixed budget.
   What stands out: aims for practical support features at lower price points.
   Before you buy: validate seat dimensions, lumbar range, and armrest adjustability before purchase.
   Skip this if: you want premium mesh/frame longevity comparable to top-tier chairs.
-- **Ergonomic Office Chair 2026 Listing** — Ergonomic Office Chair 2026 Listing listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
+- **Ergonomic Office Chair 2026 Listing** — Ergonomic Office Chair 2026 Listing listing · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
   What it is: an ergonomic office chair option for longer seated work blocks.
+  Review confidence: Low.
   Best for: buyers prioritizing comfort and adjustability under a fixed budget.
   What stands out: aims for practical support features at lower price points.
   Before you buy: validate seat dimensions, lumbar range, and armrest adjustability before purchase.

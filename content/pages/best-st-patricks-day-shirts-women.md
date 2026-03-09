@@ -24,20 +24,23 @@ Seasonal shirts are easy wins if print quality and fit are reliable. Buy from li
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **St. Patrick’s shirts women** — Women's St Patricks Day tee Glitter Shamrock Shirt Cute St Patty's Da... · ⭐ 4.7/5 (2,856 ratings) · [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)
+- **St. Patrick’s shirts women** — Women's St Patricks Day tee Glitter Shamrock Shirt Cute St Patty's Da... · [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)
   What it is: a seasonal St. Patrick’s Day top option for short-cycle event wear.
+  Review confidence: High.
   Best for: holiday shoppers wanting themed apparel without overpaying.
   What stands out: event-focused styling built for quick seasonal use.
   Before you buy: verify print quality, fabric thickness, and post-wash shrinkage comments.
   Skip this if: you want premium long-term wardrobe durability from novelty items.
-- **Funny St. Patrick’s tees** — Funny St. Patrick’s tees listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)
+- **Funny St. Patrick’s tees** — Funny St. Patrick’s tees listing · [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)
   What it is: a seasonal St. Patrick’s Day top option for short-cycle event wear.
+  Review confidence: Low.
   Best for: holiday shoppers wanting themed apparel without overpaying.
   What stands out: event-focused styling built for quick seasonal use.
   Before you buy: verify print quality, fabric thickness, and post-wash shrinkage comments.
   Skip this if: you want premium long-term wardrobe durability from novelty items.
-- **Shamrock graphic tees** — Shamrock graphic tees listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)
+- **Shamrock graphic tees** — Shamrock graphic tees listing · [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)
   What it is: a seasonal St. Patrick’s Day top option for short-cycle event wear.
+  Review confidence: Low.
   Best for: holiday shoppers wanting themed apparel without overpaying.
   What stands out: event-focused styling built for quick seasonal use.
   Before you buy: verify print quality, fabric thickness, and post-wash shrinkage comments.

@@ -24,20 +24,23 @@ A boneless couch can be great for small-space lounging, but support retention an
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **Boneless couch options** — Boneless couch options listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)
+- **Boneless couch options** — Boneless couch options listing · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)
   What it is: a lounge seating option aimed at casual, relaxed home use.
+  Review confidence: Low.
   Best for: small-space setups prioritizing comfort and flexible placement.
   What stands out: softer, casual seating profile built around lounging comfort.
   Before you buy: check fill density, dimensions, and cover-care instructions before purchase.
   Skip this if: you need firm posture support for long upright working sessions.
-- **Modular floor couches** — Modular floor couches listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)
+- **Modular floor couches** — Modular floor couches listing · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)
   What it is: a lounge seating option aimed at casual, relaxed home use.
+  Review confidence: Low.
   Best for: small-space setups prioritizing comfort and flexible placement.
   What stands out: softer, casual seating profile built around lounging comfort.
   Before you buy: check fill density, dimensions, and cover-care instructions before purchase.
   Skip this if: you need firm posture support for long upright working sessions.
-- **Washable floor loungers** — Washable floor loungers listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)
+- **Washable floor loungers** — Washable floor loungers listing · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)
   What it is: a lounge seating option aimed at casual, relaxed home use.
+  Review confidence: Low.
   Best for: small-space setups prioritizing comfort and flexible placement.
   What stands out: softer, casual seating profile built around lounging comfort.
   Before you buy: check fill density, dimensions, and cover-care instructions before purchase.

@@ -24,20 +24,23 @@ For fidget alternatives, durability and feel consistency beat novelty. Cheap set
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **NeeDoh alternatives** — NeeDoh alternatives listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DV4BD3H2/?tag=triedandtr0d5-20)
+- **NeeDoh alternatives** — NeeDoh alternatives listing · [Check on Amazon](https://www.amazon.com/dp/B0DV4BD3H2/?tag=triedandtr0d5-20)
   What it is: a sensory fidget option centered on squeeze/tactile stress-relief use.
+  Review confidence: Low.
   Best for: kids/teens and desk users who actually reuse fidget items.
   What stands out: compact tactile format that works as both desk toy and gift filler.
   Before you buy: check durability feedback and ensure listing seller consistency.
   Skip this if: you need guaranteed heavy-use durability across every variant.
-- **Squishy stress balls** — Schylling NeeDoh Nice Ice Baby - Sensory Squeeze Toy - Super Solid Sq... · ⭐ 4.0/5 (490 ratings) · [Check on Amazon](https://www.amazon.com/dp/B0D9ZTW7PS/?tag=triedandtr0d5-20)
+- **Squishy stress balls** — Schylling NeeDoh Nice Ice Baby - Sensory Squeeze Toy - Super Solid Sq... · [Check on Amazon](https://www.amazon.com/dp/B0D9ZTW7PS/?tag=triedandtr0d5-20)
   What it is: a sensory fidget option centered on squeeze/tactile stress-relief use.
+  Review confidence: Medium.
   Best for: kids/teens and desk users who actually reuse fidget items.
   What stands out: compact tactile format that works as both desk toy and gift filler.
   Before you buy: check durability feedback and ensure listing seller consistency.
   Skip this if: you need guaranteed heavy-use durability across every variant.
-- **Desk fidget toys** — Desk fidget toys listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSCS11R1/?tag=triedandtr0d5-20)
+- **Desk fidget toys** — Desk fidget toys listing · [Check on Amazon](https://www.amazon.com/dp/B0DSCS11R1/?tag=triedandtr0d5-20)
   What it is: a sensory fidget option centered on squeeze/tactile stress-relief use.
+  Review confidence: Low.
   Best for: kids/teens and desk users who actually reuse fidget items.
   What stands out: compact tactile format that works as both desk toy and gift filler.
   Before you buy: check durability feedback and ensure listing seller consistency.

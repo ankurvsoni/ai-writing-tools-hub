@@ -24,20 +24,23 @@ For dresses, fit reliability matters more than photo styling. Filter by recent r
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **Casual dresses for women** — Casual dresses for women listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GKFV3XSX/?tag=triedandtr0d5-20)
+- **Casual dresses for women** — Casual dresses for women listing · [Check on Amazon](https://www.amazon.com/dp/B0GKFV3XSX/?tag=triedandtr0d5-20)
   What it is: a women’s dress option for casual, work, or event-oriented wear.
+  Review confidence: Low.
   Best for: buyers who want a practical wardrobe pick with simpler ordering.
   What stands out: style-first listing format with broad occasion coverage.
   Before you buy: check fabric notes, lining, and sizing feedback before selecting your size.
   Skip this if: you need tailor-precise fit without trying alternate sizes.
-- **Work dresses for women** — Work dresses for women listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DS8T7DDD/?tag=triedandtr0d5-20)
+- **Work dresses for women** — Work dresses for women listing · [Check on Amazon](https://www.amazon.com/dp/B0DS8T7DDD/?tag=triedandtr0d5-20)
   What it is: a women’s dress option for casual, work, or event-oriented wear.
+  Review confidence: Low.
   Best for: buyers who want a practical wardrobe pick with simpler ordering.
   What stands out: style-first listing format with broad occasion coverage.
   Before you buy: check fabric notes, lining, and sizing feedback before selecting your size.
   Skip this if: you need tailor-precise fit without trying alternate sizes.
-- **Vacation dresses for women** — Summer Dresses for Women 2026 Casual Sleeveless Maxi Sundress Slit He... · ⭐ 5.0/5 · [Check on Amazon](https://www.amazon.com/dp/B0GJCSVMNH/?tag=triedandtr0d5-20)
+- **Vacation dresses for women** — Summer Dresses for Women 2026 Casual Sleeveless Maxi Sundress Slit He... · [Check on Amazon](https://www.amazon.com/dp/B0GJCSVMNH/?tag=triedandtr0d5-20)
   What it is: a women’s dress option for casual, work, or event-oriented wear.
+  Review confidence: Medium.
   Best for: buyers who want a practical wardrobe pick with simpler ordering.
   What stands out: style-first listing format with broad occasion coverage.
   Before you buy: check fabric notes, lining, and sizing feedback before selecting your size.

@@ -24,26 +24,30 @@ Under $500, comfort has to win. Put money into chair fit and monitor height befo
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **BestOffice Ergonomic Mid-Back Chair** — BestOffice Ergonomic Mid-Back Chair listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
+- **BestOffice Ergonomic Mid-Back Chair** — BestOffice Ergonomic Mid-Back Chair listing · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.
   Skip this if: you need premium-level rigidity at tall heights with heavy dual monitors.
-- **HUANUO Single Arm 13-34** — HUANUO Single Arm 13-34 listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
+- **HUANUO Single Arm 13-34** — HUANUO Single Arm 13-34 listing · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.
   Skip this if: you need premium-level rigidity at tall heights with heavy dual monitors.
-- **Quntis Monitor Light Bar** — Quntis Monitor Light Bar listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
+- **Quntis Monitor Light Bar** — Quntis Monitor Light Bar listing · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.
   Skip this if: you need premium-level rigidity at tall heights with heavy dual monitors.
-- **Aothia Leather Desk Pad 31.5x15.7** — Aothia Leather Desk Pad 31.5x15.7 listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)
+- **Aothia Leather Desk Pad 31.5x15.7** — Aothia Leather Desk Pad 31.5x15.7 listing · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.

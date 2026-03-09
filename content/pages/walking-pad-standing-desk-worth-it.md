@@ -24,20 +24,23 @@ Walking pads help with low-focus admin work, not precision tasks. Use them as a 
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **ErGear Electric Standing Desk 47x24** — ErGear Electric Standing Desk 47x24 listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 47x24** — ErGear Electric Standing Desk 47x24 listing · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.
   Skip this if: you need premium-level rigidity at tall heights with heavy dual monitors.
-- **ErGear Electric Standing Desk 55x28** — ErGear Electric Standing Desk 55x28 listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 55x28** — ErGear Electric Standing Desk 55x28 listing · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.
   Skip this if: you need premium-level rigidity at tall heights with heavy dual monitors.
-- **ComfiLife Anti-Fatigue Mat 20x32** — ComfiLife Anti-Fatigue Mat 20x32 listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0797Q5HL7/?tag=triedandtr0d5-20)
+- **ComfiLife Anti-Fatigue Mat 20x32** — ComfiLife Anti-Fatigue Mat 20x32 listing · [Check on Amazon](https://www.amazon.com/dp/B0797Q5HL7/?tag=triedandtr0d5-20)
   What it is: an electric standing-desk option aimed at daily home-office use.
+  Review confidence: Low.
   Best for: solopreneurs improving posture and movement without overbuilding the setup.
   What stands out: focuses on practical sit-stand basics (size, stability, presets) over flashy extras.
   Before you buy: confirm desktop dimensions, frame load limits, and room footprint before buying.

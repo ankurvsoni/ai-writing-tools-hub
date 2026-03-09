@@ -24,20 +24,23 @@ Vertical mice can reduce wrist strain, but day one often feels slower. Give it a
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **Anker Vertical Wireless Mouse** — Anker Vertical Wireless Mouse listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
+- **Anker Vertical Wireless Mouse** — Anker Vertical Wireless Mouse listing · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
   What it is: an ergonomic mouse option designed to reduce wrist strain in long sessions.
+  Review confidence: Low.
   Best for: desk workers willing to trade a short adaptation period for better comfort.
   What stands out: comfort-first orientation that can feel better than flat mice over time.
   Before you buy: check hand-size fit and ensure return options in case grip shape feels off.
   Skip this if: you need instant high-precision performance with no adjustment period.
-- **Anker Vertical Wired Mouse** — Anker Vertical Wired Mouse listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00FPAVUHC/?tag=triedandtr0d5-20)
+- **Anker Vertical Wired Mouse** — Anker Vertical Wired Mouse listing · [Check on Amazon](https://www.amazon.com/dp/B00FPAVUHC/?tag=triedandtr0d5-20)
   What it is: an ergonomic mouse option designed to reduce wrist strain in long sessions.
+  Review confidence: Low.
   Best for: desk workers willing to trade a short adaptation period for better comfort.
   What stands out: comfort-first orientation that can feel better than flat mice over time.
   Before you buy: check hand-size fit and ensure return options in case grip shape feels off.
   Skip this if: you need instant high-precision performance with no adjustment period.
-- **Logitech MX Master 3S** — Logitech MX Master 3S listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
+- **Logitech MX Master 3S** — Logitech MX Master 3S listing · [Check on Amazon](https://www.amazon.com/dp/B09HM94VDS/?tag=triedandtr0d5-20)
   What it is: an ergonomic mouse option designed to reduce wrist strain in long sessions.
+  Review confidence: Low.
   Best for: desk workers willing to trade a short adaptation period for better comfort.
   What stands out: comfort-first orientation that can feel better than flat mice over time.
   Before you buy: check hand-size fit and ensure return options in case grip shape feels off.
