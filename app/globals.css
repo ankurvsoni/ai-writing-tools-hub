@@ -15,7 +15,7 @@ a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
 }
 
 /* Product links as obvious pill buttons */
-.content a[href*="amazon.com/dp/"], .container a[href*="amazon.com/dp/"]{
+.content a[href*="amazon.com/dp/"]:not(.btn), .container a[href*="amazon.com/dp/"]:not(.btn){
   display:inline-flex;
   align-items:center;
   gap:6px;
@@ -28,8 +28,8 @@ a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
   font-weight:700;
   line-height:1.2;
 }
-.content a[href*="amazon.com/dp/"]::before, .container a[href*="amazon.com/dp/"]::before{content:"🛒"}
-.content a[href*="amazon.com/dp/"]:hover, .container a[href*="amazon.com/dp/"]:hover{
+.content a[href*="amazon.com/dp/"]:not(.btn)::before, .container a[href*="amazon.com/dp/"]:not(.btn)::before{content:"🛒"}
+.content a[href*="amazon.com/dp/"]:not(.btn):hover, .container a[href*="amazon.com/dp/"]:not(.btn):hover{
   background:#ffe3eb;
   border-color:#ff8fac;
   color:#8f0f37;
@@ -146,4 +146,3 @@ footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
 
 .container a[href*="amazon.com/dp/"]::before{content:"🛒";margin-right:6px}
 
-.cta .btn::before{content:"🛒";margin-right:8px;display:inline-block}
