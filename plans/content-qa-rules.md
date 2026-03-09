@@ -11,6 +11,7 @@ Prevent repetitive generic copy and enforce product-specific buyer guidance.
    - one **clear mismatch case** (who should skip)
 3. If signal is weak, explicitly say so (e.g., "signal is limited on this listing") — do not fabricate specificity.
 4. Keep confidence marker/legend consistent (`🟢 🟡 🔴`) but never let it replace real buyer guidance.
+5. **Evidence-first signal extraction is mandatory:** card guidance must be derived from listing description + visible review themes + product specifics (not abstract template phrasing). If a line cannot be tied back to an observable signal, rewrite it.
 
 ## Blocklist phrases (fail if present)
 - "people who value clear tradeoffs and straightforward buying decisions"
