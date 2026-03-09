@@ -24,6 +24,8 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
+*Confidence key:* 🟢 High review confidence · 🟡 Medium · 🔴 Low
+
 - **Dry shampoo for oily roots 🔴** — Dry shampoo for oily roots listing · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option meant to extend time between wash days.
   Best for: busy routines where fast refresh and volume are priorities.
