@@ -24,24 +24,24 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Dry shampoo for oily roots** — Batiste Original Dry Shampoo, 6.76 OZ / 200ml , Powder, Oily Hair, Oil Control, Citru... · ⭐ 4.5/5 (191 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
-  What it is: Batiste Original Dry Shampoo, 6.76 OZ / 200ml , Powder, Oily Hair, Oil Control, Citru....
-  Best for: buyers who want this exact listing format and can verify details before checkout.
-  What stands out: listing highlights include “One 6.76 oz Batiste Original Fragrance Dry Shampoo Bottle”.
-  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
-  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
-- **Dry shampoo for dark hair** — Batiste Dry Shampoo for Dark Hair, 3.81 oz · ⭐ 4.3/5 (1,836 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
-  What it is: Batiste Dry Shampoo for Dark Hair, 3.81 oz.
-  Best for: buyers who want this exact listing format and can verify details before checkout.
-  What stands out: listing highlights include “A quick burst revitalizes hair and removes any excess grease”.
-  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
-  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
-- **Unscented dry shampoo options** — Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair and Absorb Oil Be... · ⭐ 4.5/5 (1,253 ratings visible) · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
-  What it is: Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair and Absorb Oil Be....
-  Best for: buyers who want this exact listing format and can verify details before checkout.
-  What stands out: listing highlights include “A CULT CLASSIC FOR A REASON: Instantly refresh hair with Batiste Original Dry Shampoo, the most iconic name in the game”.
-  Before you buy: verify seller, return policy, and current variant details directly on the listing page.
-  Skip this if: you need guaranteed specs across sellers without checking listing-level details.
+- **Dry shampoo for oily roots** — Dry shampoo for oily roots listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
+  What it is: a dry-shampoo option meant to extend time between wash days.
+  Best for: busy routines where fast refresh and volume are priorities.
+  What stands out: quick-application format for reducing wash frequency friction.
+  Before you buy: check residue reports for your hair color/type and scent strength tolerance.
+  Skip this if: you are highly fragrance-sensitive or need fully residue-free results.
+- **Dry shampoo for dark hair** — Dry shampoo for dark hair listing · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
+  What it is: a dry-shampoo option meant to extend time between wash days.
+  Best for: busy routines where fast refresh and volume are priorities.
+  What stands out: quick-application format for reducing wash frequency friction.
+  Before you buy: check residue reports for your hair color/type and scent strength tolerance.
+  Skip this if: you are highly fragrance-sensitive or need fully residue-free results.
+- **Unscented dry shampoo options** — Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair a... · ⭐ 4.4/5 (1,253 ratings) · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
+  What it is: a dry-shampoo option meant to extend time between wash days.
+  Best for: busy routines where fast refresh and volume are priorities.
+  What stands out: quick-application format for reducing wash frequency friction.
+  Before you buy: check residue reports for your hair color/type and scent strength tolerance.
+  Skip this if: you are highly fragrance-sensitive or need fully residue-free results.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 
