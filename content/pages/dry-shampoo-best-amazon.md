@@ -27,24 +27,24 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Batiste Original Dry Shampoo  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
-  What it is: Batiste Original Dry Shampoo.
-  Best for: buyers who want practical performance with clearer buyer-signal confidence.
-  What stands out: stronger review visibility than many newer low-volume alternatives.
-  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
-  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
-- **Batiste Dry Shampoo  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
-  What it is: Batiste Dry Shampoo.
-  Best for: buyers who want practical performance with clearer buyer-signal confidence.
-  What stands out: stronger review visibility than many newer low-volume alternatives.
-  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
-  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
-- **Batiste Dry Shampoo for Dark Hair  🟡** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
-  What it is: Batiste Dry Shampoo for Dark Hair.
-  Best for: buyers who want practical performance with clearer buyer-signal confidence.
-  What stands out: stronger review visibility than many newer low-volume alternatives.
-  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
-  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
+- **Batiste Original Dry Shampoo  🔴** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
+  What it is: a dry-shampoo option intended to absorb oil between wash days.
+  Best for: busy routines needing fast root refresh without a full wash.
+  What stands out: quick refresh format focused on reducing visible oil at roots.
+  Before you buy: verify residue comments for your hair color and confirm fragrance strength from recent reviews.
+  Skip this if: you are highly fragrance-sensitive or require fully residue-free finish.
+- **Batiste Dry Shampoo  🔴** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
+  What it is: a dry-shampoo option intended to absorb oil between wash days.
+  Best for: busy routines needing fast root refresh without a full wash.
+  What stands out: quick refresh format focused on reducing visible oil at roots.
+  Before you buy: verify residue comments for your hair color and confirm fragrance strength from recent reviews.
+  Skip this if: you are highly fragrance-sensitive or require fully residue-free finish.
+- **Batiste Dry Shampoo for Dark Hair  🔴** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
+  What it is: a dry-shampoo option intended to absorb oil between wash days.
+  Best for: busy routines needing fast root refresh without a full wash.
+  What stands out: quick refresh format focused on reducing visible oil at roots.
+  Before you buy: verify residue comments for your hair color and confirm fragrance strength from recent reviews.
+  Skip this if: you are highly fragrance-sensitive or require fully residue-free finish.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 

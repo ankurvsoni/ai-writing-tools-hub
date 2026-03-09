@@ -27,24 +27,24 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Women's Active Ombre Sports Bra and Leggings P  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
-  What it is: Women's Active Ombre Sports Bra and Leggings Performance Set.
-  Best for: buyers who want practical performance with clearer buyer-signal confidence.
-  What stands out: stronger review visibility than many newer low-volume alternatives.
-  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
-  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
-- **OYS Women's Seamless Workout Set 2 Piece High  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B08VHR7DHK/?tag=triedandtr0d5-20)
-  What it is: OYS Women's Seamless Workout Set 2 Piece High Waisted Yoga Gym Shorts Outfits Running Active Crop Top Clothes.
-  Best for: buyers who want practical performance with clearer buyer-signal confidence.
-  What stands out: stronger review visibility than many newer low-volume alternatives.
-  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
-  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
-- **Gym Sets Women 2 Piece or 3  🟡** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B0DFCRN823/?tag=triedandtr0d5-20)
-  What it is: Gym Sets Women 2 Piece or 3.
-  Best for: buyers who want practical performance with clearer buyer-signal confidence.
-  What stands out: stronger review visibility than many newer low-volume alternatives.
-  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
-  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
+- **Women's Active Ombre Sports Bra + Leggings Set 🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
+  What it is: a women’s workout set (sports-bra + bottoms format) for gym/yoga sessions.
+  Best for: buyers who want coordinated training sets and are comfortable validating fit by variant.
+  What stands out: set-style matching top/bottom format that simplifies workout outfit decisions.
+  Before you buy: check inseam/waist chart and review photo feedback for opacity during squats/stretching.
+  Skip this if: you need premium technical fabric performance or zero-compression feel.
+- **OYS Seamless 2-Piece Workout Set 🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B08VHR7DHK/?tag=triedandtr0d5-20)
+  What it is: a women’s workout set (sports-bra + bottoms format) for gym/yoga sessions.
+  Best for: buyers who want coordinated training sets and are comfortable validating fit by variant.
+  What stands out: set-style matching top/bottom format that simplifies workout outfit decisions.
+  Before you buy: check inseam/waist chart and review photo feedback for opacity during squats/stretching.
+  Skip this if: you need premium technical fabric performance or zero-compression feel.
+- **Gym Sets Women 2 Piece or 3 🟡** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B0DFCRN823/?tag=triedandtr0d5-20)
+  What it is: a women’s workout set (sports-bra + bottoms format) for gym/yoga sessions.
+  Best for: buyers who want coordinated training sets and are comfortable validating fit by variant.
+  What stands out: set-style matching top/bottom format that simplifies workout outfit decisions.
+  Before you buy: check inseam/waist chart and review photo feedback for opacity during squats/stretching.
+  Skip this if: you need premium technical fabric performance or zero-compression feel.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 
