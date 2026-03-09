@@ -3,19 +3,19 @@
 a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
 
 /* Make in-article affiliate links clearly visible */
-.container a:not(.btn){
+.content a:not(.btn), .container a:not(.btn){
   color:#c81e4f;
   text-decoration:underline;
   text-underline-offset:2px;
   font-weight:600;
 }
-.container a:not(.btn):hover{
+.content a:not(.btn):hover, .container a:not(.btn):hover{
   color:#a50f3c;
   text-decoration-thickness:2px;
 }
 
 /* Product links as obvious pill buttons */
-.container a[href*="amazon.com/dp/"]{
+.content a[href*="amazon.com/dp/"], .container a[href*="amazon.com/dp/"]{
   display:inline-flex;
   align-items:center;
   gap:6px;
@@ -28,8 +28,8 @@ a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
   font-weight:700;
   line-height:1.2;
 }
-.container a[href*="amazon.com/dp/"]::before{content:"🛒"}
-.container a[href*="amazon.com/dp/"]:hover{
+.content a[href*="amazon.com/dp/"]::before, .container a[href*="amazon.com/dp/"]::before{content:"🛒"}
+.content a[href*="amazon.com/dp/"]:hover, .container a[href*="amazon.com/dp/"]:hover{
   background:#ffe3eb;
   border-color:#ff8fac;
   color:#8f0f37;
@@ -102,7 +102,7 @@ footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
 .topPicks li strong{font-size:16px;line-height:1.35}
 .topPicks li .li-sub{display:block;margin-top:6px;padding-left:0;color:#4f4f4f;font-size:13px;line-height:1.45}
 .topPicks li .li-sub:nth-of-type(1){margin-top:8px}
-.topPicks li a[href*="amazon.com/dp/"]{display:inline-flex;margin-top:10px}
+.topPicks li a[href*="amazon.com/dp/"]{display:inline-flex;align-items:center;gap:6px;margin-top:10px}
 
 /* cleaner section rhythm */
 .container h2{margin-top:26px}
