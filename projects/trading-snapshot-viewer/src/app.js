@@ -19,6 +19,32 @@ async function load() {
     </tr>`).join('');
 
   const actions = document.getElementById('actions');
+  const triggers = document.getElementById('triggers');
+  triggers.innerHTML = (data.triggers || []).map(t => {
+    const cls = t.status === 'hit' ? 'bad' : (t.status === 'armed' ? 'warn' : 'ok');
+    const triggerNow = t.distancePct >= 0;
+    const nowCls = triggerNow ? 'bad' : 'ok';
+    const nowTxt = triggerNow ? 'TRIGGER NOW' : 'NOT YET';
+    return `<div style="margin-bottom:10px; padding:8px; border:1px solid #2a3264; border-radius:10px;">
+      <div><b>${t.ticker}</b> · ${t.type} <span class="pill ${cls}">${t.status.toUpperCase()}</span> <span class="pill ${nowCls}">${nowTxt}</span></div>
+      <div class="muted">Trigger ${t.trigger} · Last ${t.last} · Distance ${t.distancePct}%</div>
+      <div class="muted">${t.note}</div>
+    </div>`;
+  }).join('') || '<div class="muted">No active intraday triggers.</div>';
+
+  const rotation = document.getElementById('rotation');
+  rotation.innerHTML = (data.rotationRules || []).map(r => `<div style="margin-bottom:10px; padding:8px; border:1px solid #2a3264; border-radius:10px;">
+      <div><b>${r.name}</b></div>
+      <div class="muted">If: ${r.if}</div>
+      <div class="muted">Then: ${r.then}</div>
+      <div class="muted">Fallback: ${r.fallback}</div>
+      <div class="muted">State: <b>${r.state}</b></div>
+    </div>`).join('') || '<div class="muted">No rotation rules in this snapshot.</div>';
+
+  const checklist = document.getElementById('checklist');
+  const c = data.executionChecklist || [];
+  checklist.innerHTML = c.map((x, i) => `<div class="muted" style="margin-bottom:6px;">${i+1}. ${x}</div>`).join('') || '<div class="muted">No checklist steps.</div>';
+
   actions.innerHTML = data.actions.map(a => `<div style="margin-bottom:10px; padding:8px; border:1px solid #2a3264; border-radius:10px;">
       <div><b>${a.status}</b> · ${a.ticker} · ${a.side} ${a.qty}</div>
       <div class="muted">Entry ${a.entry} · Stop ${a.stop} · Target ${a.target}</div>

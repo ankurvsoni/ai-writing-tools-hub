@@ -17,7 +17,27 @@
   "actions": [
     { "status": "NO_ACTION", "ticker": "NVDA", "side": "HOLD", "qty": 11.2473, "entry": 177.82, "stop": 179.9, "target": 188.8, "note": "Carry plan" },
     { "status": "NO_ACTION", "ticker": "MSFT", "side": "HOLD", "qty": 4.2791, "entry": 408.96, "stop": 398, "target": 412, "note": "Carry plan" },
-    { "status": "NO_ACTION", "ticker": "UBER", "side": "HOLD", "qty": 16.6378, "entry": 75.13, "stop": 70.8, "target": 74.8, "note": "Carry plan" }
+    { "status": "PENDING_ACTION", "ticker": "UBER", "side": "EXIT_IF_WEAK", "qty": 16.6378, "entry": 75.13, "stop": 72.0, "target": 74.8, "note": "Rotate if close below trigger" }
+  ],
+  "triggers": [
+    { "ticker": "UBER", "type": "SELL_STOP", "status": "armed", "trigger": 72.0, "last": 72.39, "distancePct": -0.54, "note": "If close below 72, exit full UBER" },
+    { "ticker": "NVDA", "type": "SELL_LIMIT", "status": "armed", "trigger": 188.8, "last": 184.77, "distancePct": 2.18, "note": "Trim/exit strength target" },
+    { "ticker": "MSFT", "type": "SELL_STOP", "status": "armed", "trigger": 398.0, "last": 405.76, "distancePct": -1.91, "note": "Downside protection" }
+  ],
+  "rotationRules": [
+    {
+      "name": "UBER Rotation Rule",
+      "if": "UBER closes below 72.00",
+      "then": "Exit UBER and enter AMZN",
+      "fallback": "If AMZN setup invalid, enter AVGO",
+      "state": "ARMED"
+    }
+  ],
+  "executionChecklist": [
+    "If UBER trigger is hit, submit EXIT order for full UBER position.",
+    "Confirm fill, then enter AMZN at planned range.",
+    "If AMZN setup invalid, use AVGO fallback path.",
+    "Set stop + target immediately after entry and mark EXECUTED state."
   ],
   "equityCurve": [
     { "at": "03-06", "portfolio": 5000, "spy": 5000, "hysa": 5000 },
